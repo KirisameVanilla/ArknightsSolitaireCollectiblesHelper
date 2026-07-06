@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@mdi/font": "^7.4.47",
+    "pinyin-pro": "^3.28.1",
     "react": "^19.2.7",
     "react-dom": "^19.2.7"
   },

@@ -1,4 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
+import { pinyin } from "pinyin-pro";
 import "@mdi/font/css/materialdesignicons.min.css";
 import "./App.css";
 import type { Collectible, Database } from "./types";
@@ -19,6 +20,13 @@ const MARKER_SHORT: Record<string, string> = {
   "mdi-crown": "魔王",
 };
 
+// 取名字的拼音首字母缩写，仅保留 a-z（如「铿金征鼓」→「kjzg」）
+function nameToAbbr(name: string): string {
+  return pinyin(name, { pattern: "first", toneType: "none" })
+    .replace(/[^a-zA-Z]/g, "")
+    .toLowerCase();
+}
+
 function toggleInSet(set: Set<string>, value: string): Set<string> {
   const next = new Set(set);
   if (next.has(value)) next.delete(value);
@@ -32,6 +40,7 @@ export default function App() {
   const [seriesSel, setSeriesSel] = useState<Set<string>>(new Set());
   const [raritySel, setRaritySel] = useState<Set<string>>(new Set());
   const [markerSel, setMarkerSel] = useState<Set<string>>(new Set());
+  const [search, setSearch] = useState("");
 
   useEffect(() => {
     fetch("/collectibles.json")
@@ -57,20 +66,38 @@ export default function App() {
     return Array.from(seen);
   }, [db]);
 
+  // 预计算每个名字的拼音缩写，按 id 索引
+  const abbrMap = useMemo(() => {
+    const m = new Map<number, string>();
+    if (!db) return m;
+    db.collectibles.forEach((c) => m.set(c.id, nameToAbbr(c.name)));
+    return m;
+  }, [db]);
+
   const filtered = useMemo(() => {
     if (!db) return [] as Collectible[];
+    const q = search.trim().toLowerCase();
     return db.collectibles.filter((c) => {
       if (seriesSel.size && !seriesSel.has(c.series || "")) return false;
       if (raritySel.size && !raritySel.has(c.rarity)) return false;
       if (markerSel.size && !c.markers.some((m) => markerSel.has(m))) return false;
+      if (q) {
+        const abbr = abbrMap.get(c.id) ?? "";
+        const abbrHit = abbr !== "" && abbr === q;
+        const strHit =
+          c.name.toLowerCase().includes(q) ||
+          c.effect.toLowerCase().includes(q);
+        if (!abbrHit && !strHit) return false;
+      }
       return true;
     });
-  }, [db, seriesSel, raritySel, markerSel]);
+  }, [db, seriesSel, raritySel, markerSel, search, abbrMap]);
 
   const clearAll = () => {
     setSeriesSel(new Set());
     setRaritySel(new Set());
     setMarkerSel(new Set());
+    setSearch("");
   };
 
   if (error) return <div className="state">加载失败：{error}</div>;
@@ -130,18 +157,41 @@ export default function App() {
         </button>
       </aside>
 
-      <main className="grid">
-        {filtered.length === 0 && (
-          <div className="empty">没有匹配的收藏品</div>
-        )}
-        {filtered.map((c) => (
-          <Card
-            key={c.id}
-            c={c}
-            markerLegend={db.marker_legend}
-            rarityColor={db.rarity_legend[c.rarity]?.color}
+      <main>
+        <div className="search-bar">
+          <i className="mdi mdi-magnify" />
+          <input
+            type="text"
+            value={search}
+            onChange={(e) => setSearch(e.target.value)}
+            placeholder="搜索名字 / 描述，或输入拼音缩写（如 kjzg）"
+            spellCheck={false}
           />
-        ))}
+          {search && (
+            <button
+              className="search-clear"
+              onClick={() => setSearch("")}
+              title="清空搜索"
+              aria-label="清空搜索"
+            >
+              <i className="mdi mdi-close" />
+            </button>
+          )}
+        </div>
+
+        <div className="grid">
+          {filtered.length === 0 && (
+            <div className="empty">没有匹配的收藏品</div>
+          )}
+          {filtered.map((c) => (
+            <Card
+              key={c.id}
+              c={c}
+              markerLegend={db.marker_legend}
+              rarityColor={db.rarity_legend[c.rarity]?.color}
+            />
+          ))}
+        </div>
       </main>
     </div>
   );
