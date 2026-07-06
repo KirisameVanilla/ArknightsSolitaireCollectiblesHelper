@@ -13,9 +13,8 @@ const MARKER_SHORT: Record<string, string> = {
   "mdi-close-circle": "不可交换",
   "mdi-transfer-up": "计数",
   "mdi-trophy-broken": "一次性",
-  "mdi-alpha-x-box-outline": "拓展·X",
-  "mdi-numeric-1-box-outline": "拓展·1",
-  "mdi-numeric-2-box-outline": "拓展·2",
+  "mdi-numeric-1-box-outline": "DLC·1",
+  "mdi-numeric-2-box-outline": "DLC·2",
   "mdi-chess-king": "国王",
   "mdi-crown": "魔王",
 };

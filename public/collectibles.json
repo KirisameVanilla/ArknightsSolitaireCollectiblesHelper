@@ -19,9 +19,10 @@
     "mdi-close-circle": "不可在【失与得】节点被交换出去",
     "mdi-transfer-up": "拥有计数机制，会显示已叠加层数",
     "mdi-trophy-broken": "一次性收藏品，生效后无法再次生效",
-    "mdi-alpha-x-box-outline": "【内容拓展·X】加入的收藏品",
     "mdi-chess-king": "国王收藏品（可被【诸王的冠冕】识别）",
-    "mdi-crown": "魔王收藏品（可被【魔王的祭器】识别）"
+    "mdi-crown": "魔王收藏品（可被【魔王的祭器】识别）",
+    "mdi-numeric-1-box-outline": "【内容拓展·1】加入的收藏品",
+    "mdi-numeric-2-box-outline": "【内容拓展·2】加入的收藏品"
   },
   "validation": {
     "count": 294,
