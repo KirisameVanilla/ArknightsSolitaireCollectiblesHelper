@@ -30,6 +30,115 @@
   color: var(--accent);
 }
 
+/* ---------- bulletin ---------- */
+.bulletin {
+  grid-column: 1 / -1;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 14px;
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+}
+.bulletin-icon {
+  color: var(--accent);
+  font-size: 18px;
+  flex-shrink: 0;
+}
+.bulletin-content {
+  flex: 1;
+  min-width: 0;
+  font-size: 13.5px;
+  line-height: 1.5;
+  color: var(--text);
+  /* key 重新挂载时触发淡入 */
+  animation: bulletin-fade 0.35s ease;
+}
+.bulletin-content :is(strong, b) {
+  color: var(--accent);
+  font-weight: 600;
+}
+.bulletin-content :is(em, i) {
+  font-style: italic;
+}
+.bulletin-content code {
+  padding: 1px 5px;
+  border-radius: 4px;
+  background: #f0f0f3;
+  font-family: "SFMono-Regular", Consolas, monospace;
+  font-size: 12.5px;
+}
+.bulletin-content a {
+  color: var(--accent);
+  text-decoration: none;
+}
+.bulletin-content a:hover {
+  text-decoration: underline;
+}
+.bulletin-content img {
+  max-width: 100%;
+  vertical-align: middle;
+}
+.bulletin-nav {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  padding: 0;
+  border: none;
+  border-radius: 6px;
+  background: transparent;
+  color: var(--text-dim);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.bulletin-nav:hover {
+  background: var(--bg);
+  color: var(--text);
+}
+.bulletin-nav .mdi {
+  font-size: 18px;
+}
+.bulletin-dots {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  flex-shrink: 0;
+}
+.dot {
+  width: 6px;
+  height: 6px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: var(--border);
+  cursor: pointer;
+  transition: all 0.18s;
+}
+.dot:hover {
+  background: var(--text-dim);
+}
+.dot.active {
+  width: 14px;
+  border-radius: 3px;
+  background: var(--accent);
+}
+.dot.active:hover {
+  background: var(--accent);
+}
+@keyframes bulletin-fade {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
 /* ---------- filters ---------- */
 .filters {
   background: var(--panel);

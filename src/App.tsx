@@ -2,7 +2,8 @@ import { useEffect, useMemo, useState } from "react";
 import { pinyin } from "pinyin-pro";
 import "@mdi/font/css/materialdesignicons.min.css";
 import "./App.css";
-import type { Collectible, Database } from "./types";
+import type { Bulletins, Collectible, Database } from "./types";
+import BulletinBoard from "./BulletinBoard";
 
 const RARITY_ORDER = ["低稀有度", "中稀有度", "高稀有度"];
 
@@ -36,6 +37,7 @@ function toggleInSet(set: Set<string>, value: string): Set<string> {
 
 export default function App() {
   const [db, setDb] = useState<Database | null>(null);
+  const [bulletins, setBulletins] = useState<Bulletins | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [seriesSel, setSeriesSel] = useState<Set<string>>(new Set());
   const [raritySel, setRaritySel] = useState<Set<string>>(new Set());
@@ -50,6 +52,16 @@ export default function App() {
       })
       .then(setDb)
       .catch((e) => setError(String(e)));
+  }, []);
+
+  useEffect(() => {
+    fetch("/bulletins.json")
+      .then((r) => {
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        return r.json() as Promise<Bulletins>;
+      })
+      .then(setBulletins)
+      .catch(() => setBulletins(null)); // 公告非必需，失败静默
   }, []);
 
   const allSeries = useMemo(() => {
@@ -111,6 +123,10 @@ export default function App() {
           共 {db.total} 件 · 筛选出 <strong>{filtered.length}</strong> 件
         </p>
       </header>
+
+      {bulletins && bulletins.bulletins.length > 0 && (
+        <BulletinBoard data={bulletins} />
+      )}
 
       <aside className="filters">
         <FilterSection title="收藏品系列">

@@ -1,0 +1,26 @@
+{
+  "interval": 5000,
+  "bulletins": [
+    {
+      "id": "welcome",
+      "content": "欢迎使用 <strong>界园藏品图鉴</strong>，左侧可按系列 / 稀有度 / 特殊标识筛选。"
+    },
+    {
+      "id": "jieyuan-tip",
+      "content": "界园失与得并不严格按照藏品价值交换，详细可查看<a href=\"https://docs.qq.com/sheet/DSnJQZ3V2akZWRHpz?rtkey=&nlc=1&tab=BB08J2\" target=\"_blank\" rel=\"noopener\">界园藏品档案</a>。"
+    },
+    {
+      "id": "search-tip",
+      "content": "搜索框支持<strong>拼音缩写</strong>，输入 <code>kjzg</code> 可直达「铿金征鼓」。"
+    },
+    {
+      "id": "marker-tip",
+      "content": "鼠标悬停收藏品右上角的 <em>特殊标识</em> 可查看完整含义。"
+    },
+    {
+      "id": "link-tip",
+      "content": "数据来源：<a href=\"https://prts.wiki\" target=\"_blank\" rel=\"noopener\">PRTS Wiki</a>。",
+      "duration": 7000
+    }
+  ]
+}
