@@ -1,3 +1,8 @@
+export interface KVPair {
+  key: string;
+  value: string;
+}
+
 export interface Collectible {
   id: number;
   name: string;
@@ -6,6 +11,7 @@ export interface Collectible {
   rarity: string;
   markers: string[];
   effect: string;
+  extraInfo: KVPair[];
 }
 
 export interface Database {

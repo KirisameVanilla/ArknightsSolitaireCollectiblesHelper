@@ -18,7 +18,6 @@ const MARKER_SHORT: Record<string, string> = {
   "mdi-numeric-2-box-outline": "拓展·2",
   "mdi-chess-king": "国王",
   "mdi-crown": "魔王",
-  "mdi-help-circle-outline": "特殊",
 };
 
 function toggleInSet(set: Set<string>, value: string): Set<string> {
@@ -225,6 +224,16 @@ function Card({
         <h3 className="card-name">{c.name}</h3>
         {c.series && <div className="card-series">{c.series}</div>}
         <pre className="card-effect">{c.effect}</pre>
+        {c.extraInfo.length > 0 && (
+          <dl className="card-extra">
+            {c.extraInfo.map((kv) => (
+              <div className="extra-row" key={kv.key}>
+                <dt>{kv.key}</dt>
+                <dd>{kv.value}</dd>
+              </div>
+            ))}
+          </dl>
+        )}
       </div>
     </article>
   );
