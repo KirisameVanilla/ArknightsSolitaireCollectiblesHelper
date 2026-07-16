@@ -1,32 +1,28 @@
-# React + TypeScript + Vite
+# 集成战略收藏品档案
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+一个基于 React、TypeScript 与 Vite 的本地收藏品图鉴。
 
-Currently, two official plugins are available:
+## 页面
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- `/`：档案总览
+- `/界园`：岁的界园志异 · 珍玩集册
+- `/萨卡兹`：萨卡兹的无终奇语 · 想象实体图鉴
 
-## React Compiler
+## 开发
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend enabling type-aware lint rules by installing `oxlint-tsgolint` and editing `.oxlintrc.json`:
-
-```json
-{
-  "$schema": "./node_modules/oxlint/configuration_schema.json",
-  "plugins": ["react", "typescript", "oxc"],
-  "options": {
-    "typeAware": true
-  },
-  "rules": {
-    "react/rules-of-hooks": "error",
-    "react/only-export-components": ["warn", { "allowConstantExport": true }]
-  }
-}
+```bash
+npm install
+npm run dev
 ```
 
-See the [Oxlint rules documentation](https://oxc.rs/docs/guide/usage/linter/rules) for the full list of rules and categories.
+质量检查：
+
+```bash
+npm run lint
+npm run build
+```
+
+## 数据目录
+
+- 萨卡兹：`public/rogue_4/collectibles.json`、`public/rogue_4/images/`
+- 界园：`public/rogue_5/collectibles.json`、`public/rogue_5/images/`

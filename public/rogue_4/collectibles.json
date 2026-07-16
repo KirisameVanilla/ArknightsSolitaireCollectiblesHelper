@@ -1,0 +1,4787 @@
+{
+  "source": "https://prts.wiki/w/萨卡兹的无终奇语/想象实体图鉴",
+  "total": 296,
+  "rarity_legend": {},
+  "marker_legend": {
+    "mdi-treasure-chest-outline": "高级奖励",
+    "mdi-diamond-stone": "稀有奖励",
+    "mdi-music-note": "终曲合声无主的财富",
+    "mdi-store-clock-outline": "诡意行商刷新",
+    "mdi-lightbulb-on-outline": "灵光乍现",
+    "mdi-gift-outline": "寻常奖励",
+    "mdi-close-circle": "不可交换",
+    "mdi-chess-king": "国王收藏品",
+    "mdi-transfer-up": "可叠加",
+    "mdi-crown": "魔王收藏品",
+    "mdi-numeric-1-box-outline": "内容拓展·Ⅰ",
+    "mdi-eye": "诡谲断章",
+    "mdi-trophy-broken": "一次性",
+    "mdi-numeric-2-box-outline": "内容拓展·Ⅱ"
+  },
+  "validation": {
+    "count": 296,
+    "missing_ids": [],
+    "duplicate_ids": [],
+    "series": [
+      "专业工具",
+      "叙事珍奇",
+      "多元奇物",
+      "尘封遗物",
+      "巧用收藏",
+      "支援道具",
+      "斗争之物",
+      "泰拉之密",
+      "生存助力",
+      "遭诅古物"
+    ],
+    "with_price": 262,
+    "with_markers": 249,
+    "with_extra_info": 89
+  },
+  "collectibles": [
+    {
+      "id": 1,
+      "name": "精选兽肉罐头",
+      "image": "rogue_4_relic_legacy_9.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "8",
+      "effect": "【实在的】可携带干员+1，所有我方单位每秒回复3点生命\n【巧思的】可携带干员+1，所有我方单位每秒回复5点生命\n【幻想的】可携带干员+1，所有我方单位每秒回复8点生命\n【架空的】可携带干员+1，所有我方单位每秒回复10点生命",
+      "description": "对奔行于长路的旅人而言，“开罐即食”的便利，往往比味道更重要。",
+      "extraInfo": []
+    },
+    {
+      "id": 2,
+      "name": "凉拌海草",
+      "image": "rogue_4_relic_legacy_10.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "8",
+      "effect": "【实在的】可携带干员+1，所有我方单位的攻击速度+1\n【巧思的】可携带干员+1，所有我方单位的攻击速度+3\n【幻想的】可携带干员+1，所有我方单位的攻击速度+5\n【架空的】可携带干员+1，所有我方单位的攻击速度+7",
+      "description": "曾是令伊比利亚人自傲的民族美食，如今已因海嗣横行，渐渐离开了人们的记忆。",
+      "extraInfo": []
+    },
+    {
+      "id": 3,
+      "name": "橙味风暴",
+      "image": "rogue_4_relic_legacy_11.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "8",
+      "effect": "【实在的】可携带干员+1，所有我方单位的攻击力+1%\n【巧思的】可携带干员+1，所有我方单位的攻击力+3%\n【幻想的】可携带干员+1，所有我方单位的攻击力+5%\n【架空的】可携带干员+1，所有我方单位的攻击力+7%",
+      "description": "约翰老妈糖果产品，畅销橙子味，以廉价美味为卖点，在孩子中很有人气。",
+      "extraInfo": []
+    },
+    {
+      "id": 4,
+      "name": "咖啡平原咖啡糖",
+      "image": "rogue_4_relic_legacy_12.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "【实在的】可携带干员+2，所有我方单位的攻击速度+2\n【巧思的】可携带干员+2，所有我方单位的攻击速度+4\n【幻想的】可携带干员+2，所有我方单位的攻击速度+6\n【架空的】可携带干员+2，所有我方单位的攻击速度+8",
+      "description": "多索雷斯咖啡品牌糖果产品，现已广销各地。添加真实咖啡因，让你从上班清醒到加班。",
+      "extraInfo": []
+    },
+    {
+      "id": 5,
+      "name": "尖叫樱桃",
+      "image": "rogue_4_relic_legacy_13.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "【实在的】可携带干员+2，所有我方单位的攻击力+2%\n【巧思的】可携带干员+2，所有我方单位的攻击力+4%\n【幻想的】可携带干员+2，所有我方单位的攻击力+6%\n【架空的】可携带干员+2，所有我方单位的攻击力+8%",
+      "description": "约翰老妈糖果产品，小众醋腌樱桃味，销量无法比肩畅销款，但一直有一小群忠实而稳定的消费者。听说某位约翰老妈董事就钟爱此口味。",
+      "extraInfo": []
+    },
+    {
+      "id": 6,
+      "name": "皮特水果什锦",
+      "image": "rogue_4_relic_legacy_14.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "【实在的】可携带干员+3，所有我方单位的攻击力、防御力和生命值+3%\n【巧思的】可携带干员+3，所有我方单位的攻击力、防御力和生命值+4%\n【幻想的】可携带干员+3，所有我方单位的攻击力、防御力和生命值+5%\n【架空的】可携带干员+3，所有我方单位的攻击力、防御力和生命值+7%",
+      "description": "皮特牌什锦水果糖，以丰富的口味和超高性价比在糖果市场上与约翰老妈糖果系列相抗衡。缪尔赛思的最爱。",
+      "extraInfo": []
+    },
+    {
+      "id": 7,
+      "name": "地形图",
+      "image": "rogue_4_relic_legacy_15.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "【实在的】可同时部署人数+1，所有我方单位的防御力+4%\n【巧思的】可同时部署人数+1，所有我方单位的防御力+5%\n【幻想的】可同时部署人数+1，所有我方单位的防御力+6%\n【架空的】可同时部署人数+1，所有我方单位的防御力+8%",
+      "description": "一份颇有年代感的手绘地图，图上的名称和对应地形都有较大更易，比例尺似乎也有些问题。",
+      "extraInfo": []
+    },
+    {
+      "id": 8,
+      "name": "神音海螺",
+      "image": "rogue_4_relic_legacy_16.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "【实在的】可同时部署人数+1，所有我方单位的生命值+4%\n【巧思的】可同时部署人数+1，所有我方单位的生命值+5%\n【幻想的】可同时部署人数+1，所有我方单位的生命值+6%\n【架空的】可同时部署人数+1，所有我方单位的生命值+8%",
+      "description": "吹响它，那些你不曾见过、甚至不曾听闻的神明将回应你的声音。其实就是一个空心海螺。",
+      "extraInfo": []
+    },
+    {
+      "id": 9,
+      "name": "林间夜话",
+      "image": "rogue_4_relic_legacy_17.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "12",
+      "effect": "【实在的】可同时部署人数+2，所有我方单位的防御力+6%\n【巧思的】可同时部署人数+2，所有我方单位的防御力+7%\n【幻想的】可同时部署人数+2，所有我方单位的防御力+8%\n【架空的】可同时部署人数+2，所有我方单位的防御力+10%",
+      "description": "疗养庭院为有外勤任务的干员特调的香薰套装，提炼十五种植物成分，尝试一百七十二种组合。风踏进山林，万物低语，人可好眠。",
+      "extraInfo": []
+    },
+    {
+      "id": 10,
+      "name": "教堂救济餐券",
+      "image": "rogue_4_relic_legacy_18.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "12",
+      "effect": "【实在的】可同时部署人数+2，所有我方单位的生命值+6%\n【巧思的】可同时部署人数+2，所有我方单位的生命值+7%\n【幻想的】可同时部署人数+2，所有我方单位的生命值+8%\n【架空的】可同时部署人数+2，所有我方单位的生命值+10%",
+      "description": "在没落的伊比利亚沿海城镇，某些教堂会定期提供救济餐，信徒们凭券领取。至于救济餐券的发放标准，是个秘密。",
+      "extraInfo": []
+    },
+    {
+      "id": 11,
+      "name": "被撬开的道具箱",
+      "image": "rogue_4_relic_legacy_34.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "【实在的】希望+4\n【巧思的】希望+4，立即获得源石锭+3\n【幻想的】希望+4，立即获得源石锭+4\n【架空的】希望+4，立即获得源石锭+5",
+      "description": "剧团道具师的道具箱，从顶针到道具假人，一应物品应有尽有。",
+      "extraInfo": []
+    },
+    {
+      "id": 12,
+      "name": "古旧乐谱残章",
+      "image": "rogue_4_relic_legacy_35.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "【实在的】希望+4\n【巧思的】希望+4，所有我方单位的攻击速度+4\n【幻想的】希望+4，所有我方单位的攻击速度+5\n【架空的】希望+4，所有我方单位的攻击速度+6",
+      "description": "一张古旧的乐谱残章，上面的音符已经模糊不清，不知这首曲子讲述着怎样的故事。",
+      "extraInfo": []
+    },
+    {
+      "id": 13,
+      "name": "解约协议",
+      "image": "rogue_4_relic_legacy_36.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "【实在的】希望+4\n【巧思的】希望+4，所有我方单位的攻击力+3%\n【幻想的】希望+4，所有我方单位的攻击力+5%\n【架空的】希望+4，所有我方单位的攻击力+7%",
+      "description": "只要拿到一个签名，就可以彻底摆脱这个剧团了。",
+      "extraInfo": []
+    },
+    {
+      "id": 14,
+      "name": "万能钥匙",
+      "image": "rogue_4_relic_legacy_37.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "【实在的】希望+6\n【巧思的】希望+6，负荷临界点+1\n【幻想的】希望+7，负荷临界点+1\n【架空的】希望+7，负荷临界点+2",
+      "description": "银质的老旧钥匙，可以用它打开任何一扇门。作为管理者，剧团管家自然要手握开启所有秘密的银钥。",
+      "extraInfo": []
+    },
+    {
+      "id": 15,
+      "name": "女妖之吻",
+      "image": "rogue_4_relic_legacy_38.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "【实在的】希望+8\n【巧思的】希望+9\n【幻想的】希望+10\n【架空的】希望+12",
+      "description": "外族人获得它时常常会展现出超越自身的勇气，但作为稀少的男性女妖，Logos对于这种东西已经见怪不怪了。",
+      "extraInfo": []
+    },
+    {
+      "id": 16,
+      "name": "古旧钱币",
+      "image": "rogue_4_relic_legacy_39.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "【实在的】立即获得源石锭+10\n【巧思的】立即获得源石锭+10，希望+1\n【幻想的】立即获得源石锭+11，希望+1\n【架空的】立即获得源石锭+12，希望+1",
+      "description": "生锈的古代钱币，已经无法辨认年代，这东西在泰拉荒地上随处可见。",
+      "extraInfo": []
+    },
+    {
+      "id": 17,
+      "name": "演员的首饰盒",
+      "image": "rogue_4_relic_legacy_40.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "【实在的】立即获得源石锭+18\n【巧思的】立即获得源石锭+18，负荷临界点+1\n【幻想的】立即获得源石锭+19，负荷临界点+1\n【架空的】立即获得源石锭+20，负荷临界点+1",
+      "description": "装满了各种碎裂首饰的盒子，年轻的主演佩戴着这些珠宝登台，然后从最高处纵身跃下。",
+      "extraInfo": []
+    },
+    {
+      "id": 18,
+      "name": "无瑕宝玉",
+      "image": "rogue_4_relic_legacy_41.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "【实在的】立即获得源石锭+25\n【巧思的】立即获得源石锭+26\n【幻想的】立即获得源石锭+28\n【架空的】立即获得源石锭+30",
+      "description": "即便城池三度因其而毁，它也依然光洁无瑕，无可挑剔。持有它的萨尔贡皇帝直至今日都没想好用什么珠宝与之相衬，只有争斗的硝烟永伴。",
+      "extraInfo": []
+    },
+    {
+      "id": 19,
+      "name": "游戏室管理员权限卡",
+      "image": "rogue_4_relic_legacy_42.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "【实在的】立即进阶一个干员（不消耗希望）\n【巧思的】立即获得源石锭+1，并进阶一个干员（不消耗希望）\n【幻想的】立即获得源石锭+2，并进阶一个干员（不消耗希望）\n【架空的】立即获得源石锭+3，并进阶一个干员（不消耗希望）",
+      "description": "持有它，您就掌握了罗德岛的娱乐管理大权，请谨慎处理干员们种种奇怪的申请......以及每天关门。",
+      "extraInfo": []
+    },
+    {
+      "id": 20,
+      "name": "Miss.Christine摸摸券",
+      "image": "rogue_4_relic_legacy_43.png",
+      "series": "多元奇物",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "【实在的】立即进阶两个干员（不消耗希望）\n【巧思的】护盾值+1，并进阶两个干员（不消耗希望）\n【幻想的】护盾值+2，并进阶两个干员（不消耗希望）\n【架空的】护盾值+3，并进阶两个干员（不消耗希望）",
+      "description": "你已经获得了女士的准许！",
+      "extraInfo": []
+    },
+    {
+      "id": 21,
+      "name": "红色蝴蝶结",
+      "image": "rogue_4_relic_legacy_21.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "希望+2，可同时部署人数+1",
+      "description": "傀影送出的第一份礼物，Miss.Christine非常中意。",
+      "extraInfo": []
+    },
+    {
+      "id": 22,
+      "name": "独奏八音盒",
+      "image": "rogue_4_relic_legacy_22.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "希望+4，可同时部署人数+1",
+      "description": "老旧的八音盒，打开之后音乐没有响起，盒子中央的小人也没有动。没有任何响动，无人跳舞。在与傀影对戏之前，女主演总是在后台痴痴地看着它。",
+      "extraInfo": []
+    },
+    {
+      "id": 23,
+      "name": "至宝指环",
+      "image": "rogue_4_relic_legacy_173.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "战斗掉落的源石锭+50%",
+      "description": "在莱塔尼亚的神话中，持戒者享有整片大地的财富，但也终将因贪婪毁灭。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "剩余不小于20源石锭时完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "幸运硬币",
+      "image": "rogue_4_relic_legacy_176.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每进入一个非战斗节点，源石锭+2",
+      "description": "在罗德岛捡到的硬币，捡到一枚就能捡到很多枚。",
+      "extraInfo": []
+    },
+    {
+      "id": 25,
+      "name": "莱塔尼亚荣誉勋章",
+      "image": "rogue_4_relic_legacy_183.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "战斗获得的指挥经验+30%",
+      "description": "两位女皇很少同做一件事，为创造艺术的人授勋，这是其中一件。",
+      "extraInfo": []
+    },
+    {
+      "id": 26,
+      "name": "沉眠同胞",
+      "image": "rogue_4_relic_explore_4.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "希望+5，此收藏品在失与得交换时额外获得1个收藏品",
+      "description": "迷失于银色山脉的萨卡兹以休眠自保。它沉睡了太久，以至于自我都消失殆尽，直到那命中注定的同胞将其唤醒，它将成为另一个他。",
+      "extraInfo": []
+    },
+    {
+      "id": 27,
+      "name": "特级馥郁咖啡豆",
+      "image": "rogue_4_relic_legacy_19.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "可携带干员+1，可同时部署人数+1，护盾值+1",
+      "description": "咖啡农们喂某类体带异香的珍稀羽兽吃下咖啡豆，再从其排泄物中提取加工，经过胃酸发酵过程产生的异香，让咖啡豆的价格翻了三倍。",
+      "extraInfo": []
+    },
+    {
+      "id": 28,
+      "name": "蓝色丝巾",
+      "image": "rogue_4_relic_legacy_20.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "希望+2，可携带干员+1",
+      "description": "女士优雅的丝巾，她的出现代表安全。",
+      "extraInfo": []
+    },
+    {
+      "id": 29,
+      "name": "源石鸢尾花",
+      "image": "rogue_4_relic_legacy_23.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "希望+6，可携带干员+2",
+      "description": "极尽奢华的花朵，剧团长在谢幕时向主演献花的次数寥寥无几。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "拥有不小于60点以上希望上限时完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "古怪的长笛",
+      "image": "rogue_4_relic_legacy_24.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "希望+4，可携带干员+1",
+      "description": "外形古怪的长笛，有人日夜将其吹响。",
+      "extraInfo": []
+    },
+    {
+      "id": 31,
+      "name": "玻璃小鸟",
+      "image": "rogue_4_relic_legacy_25.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "希望+4，可携带干员+1",
+      "description": "“在我的乐园里，这只小鸟会永远地歌唱下去。”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计获得50希望"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "赤金的远征",
+      "image": "rogue_4_relic_legacy_26.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "希望+4，可携带干员+1，可同时部署人数+1",
+      "description": "君王自荒地出发，集市在她的裙下如春芽萌发，财富之路连通高山密林，直到她消失在西方浪涛的边崖。——萨尔贡古老童话",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计获得150希望"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "《杜林地上环游记》",
+      "image": "rogue_4_relic_legacy_27.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "护盾值+4",
+      "description": "从这本游记中，我们可以一窥地底人对于地表人的奇异见解。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计损失50目标生命"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "《旧高卢地名源流考》",
+      "image": "rogue_4_relic_legacy_28.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "护盾值+6",
+      "description": "薄绿从博士办公室里翻出来的古地名历史书，里面记载有克莱布拉松。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计损失125目标生命"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "热水壶",
+      "image": "rogue_4_relic_legacy_29.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "目标生命上限+1，希望+1",
+      "description": "罗德岛办公室里的同款热水壶，有人经常大半夜用热水壶煮速食面吃，这种生活习惯不是很健康......",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※收藏品池基本耗尽时，该收藏品会用于补位"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "特殊抑制器",
+      "image": "rogue_4_relic_legacy_30.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "目标生命上限+2，回复2目标生命",
+      "description": "罗德岛改良款抑制器，能够有效遏制感染造成的源石技艺失控。",
+      "extraInfo": []
+    },
+    {
+      "id": 37,
+      "name": "石像鬼塑像",
+      "image": "rogue_4_relic_legacy_31.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "目标生命上限+3",
+      "description": "一个手掌大小的雕像，听说是石像鬼们表示友好的造物。",
+      "extraInfo": []
+    },
+    {
+      "id": 38,
+      "name": "血魔的寝床",
+      "image": "rogue_4_relic_legacy_32.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "目标生命上限+4",
+      "description": "一副奢华的棺木，和古堡十分般配，华法琳说这就是刻板印象。",
+      "extraInfo": []
+    },
+    {
+      "id": 39,
+      "name": "长生者之证",
+      "image": "rogue_4_relic_legacy_33.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "目标生命上限+6",
+      "description": "一段树枝，枯荣一体； 从枯萎处生长，从繁盛处枯萎。",
+      "extraInfo": []
+    },
+    {
+      "id": 40,
+      "name": "钝爪-典训",
+      "image": "rogue_4_relic_legacy_45.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【先锋】干员（不消耗希望）",
+      "description": "一套强有力的装备，一颗勇往直前的心。",
+      "extraInfo": []
+    },
+    {
+      "id": 41,
+      "name": "折戟-典训",
+      "image": "rogue_4_relic_legacy_46.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【近卫】干员（不消耗希望）",
+      "description": "有的人用剑是因为他们不会用弩也不会用法术。而有的人用剑，是因为只有用剑的必要。",
+      "extraInfo": []
+    },
+    {
+      "id": 42,
+      "name": "铁卫-典训",
+      "image": "rogue_4_relic_legacy_47.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【重装】干员（不消耗希望）",
+      "description": "划痕是荣耀，但那些碎如齑粉的战士，谁来铭记？",
+      "extraInfo": []
+    },
+    {
+      "id": 43,
+      "name": "残弩-典训",
+      "image": "rogue_4_relic_legacy_48.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【狙击】干员（不消耗希望）",
+      "description": "“要么，你们控制点火力。要么，你们搞对目标，好吗？”",
+      "extraInfo": []
+    },
+    {
+      "id": 44,
+      "name": "断杖-典训",
+      "image": "rogue_4_relic_legacy_49.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【术师】干员（不消耗希望）",
+      "description": "“看过某些术师干员的‘表演’后，我选择默默收起那本莱塔尼亚教材。”",
+      "extraInfo": []
+    },
+    {
+      "id": 45,
+      "name": "支柱-典训",
+      "image": "rogue_4_relic_legacy_50.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【辅助】干员（不消耗希望）",
+      "description": "他们行动的时候总是五花八门的。",
+      "extraInfo": []
+    },
+    {
+      "id": 46,
+      "name": "医者-典训",
+      "image": "rogue_4_relic_legacy_51.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【医疗】干员（不消耗希望）",
+      "description": "直到所有人都是医生，都能根治名为生活的病灶，直到那一刻我们才不需要医生。",
+      "extraInfo": []
+    },
+    {
+      "id": 47,
+      "name": "锈刃-典训",
+      "image": "rogue_4_relic_legacy_52.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "立即进阶一个【特种】干员（不消耗希望）",
+      "description": "在与特种干员们进行实战练习的时候，请做好充足的“没做好准备就被打了”的准备。",
+      "extraInfo": []
+    },
+    {
+      "id": 48,
+      "name": "阿卡胡拉饭碗",
+      "image": "rogue_4_relic_legacy_56.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "回复4目标生命，护盾值+2",
+      "description": "水果是当地人的主食之一，现采现食也是常有的事。",
+      "extraInfo": []
+    },
+    {
+      "id": 49,
+      "name": "御2",
+      "image": "rogue_4_relic_legacy_58.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "护盾值+3",
+      "description": "这是个防御型量产无人机，没道理它只在敌人手里起作用。",
+      "extraInfo": []
+    },
+    {
+      "id": 50,
+      "name": "维多利亚“废铁”勋章",
+      "image": "rogue_4_relic_legacy_143.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗获得的指挥经验+20%",
+      "description": "推进之王临时设计并颁发给达格达的骑士勋章。材料很烂，但对达格达来说很有意义。",
+      "extraInfo": []
+    },
+    {
+      "id": 51,
+      "name": "一袋构想",
+      "image": "rogue_4_relic_res_1.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "立即获得3缕构想",
+      "description": "像“这里要盖一座桥”“那里要种上花”“该把这墙炸开”这类想法，就适合装进袋子里，这样当需要的时候就可以拿出来用。",
+      "extraInfo": []
+    },
+    {
+      "id": 52,
+      "name": "铭记的贺礼",
+      "image": "rogue_4_relic_res_4.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "负荷临界点+5",
+      "description": "这是河谷中永远闪烁着波光的水，由菈玛莲·杜康珐丽丝在奇迹降临后的日子里亲手盛装。再之后，“编织泪水的河谷主母”喜笑颜开地把这些小瓶送给了许多亲朋姐妹。",
+      "extraInfo": []
+    },
+    {
+      "id": 53,
+      "name": "遭诅战史集",
+      "image": "rogue_4_relic_res_5.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "负荷临界点+2，每次完美作战后，负荷临界点+1",
+      "description": "这本战史集被放在图书馆最深处，每个试图去阅读的人都会被卷入它所记载的无数战役，在徒劳的抵抗中精神崩溃。但死魂灵长者的手洞穿战场，直接将这位附身书中的同胞封入了自己的骨骸中。",
+      "extraInfo": []
+    },
+    {
+      "id": 54,
+      "name": "失落之钥",
+      "image": "rogue_4_relic_res_8.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "战斗获得的指挥经验+20%，指挥等级到达10级时，立刻获得50源石锭",
+      "description": "“伙计们，这把钥匙能够打开失落王都卡兹戴尔的宝库。喂，绿发的菲林，看好你的兜帽奴隶，别让他碰我的地图！”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在“印象重建”中固化【诡意行商】节点4次"
+        },
+        {
+          "key": "备注",
+          "value": "※获得收藏品瞬间可触发源石锭获取判定，成功时可立即获得源石锭"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "无名图腾",
+      "image": "rogue_4_relic_res_9.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "立刻获得3缕不同种类的思绪",
+      "description": "这图腾竖立在路口，走近的人会用双脚在大地上一遍遍踩出死魂灵模糊的现实轮廓，直至鞋底磨穿，双脚见血，力竭而亡。死魂灵长者踩碎了同胞的附身物，将其封入了自己的骨骸中。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在“印象重建”中固化【去伪存真】节点2次"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "死魂灵残躯",
+      "image": "rogue_4_relic_res_10.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "希望+2，每个节点可刷新次数+1",
+      "description": "失去身体，成为彷徨的幽魂。这就是部分萨卡兹为了族群的未来自愿付出的代价。",
+      "extraInfo": []
+    },
+    {
+      "id": 57,
+      "name": "魔术匣",
+      "image": "rogue_4_relic_res_11.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "源石锭+4，负荷临界点+2",
+      "description": "这个外表平平无奇的匣子肆意摄取着人们的心魄，见到它的人会迫不及待杀死拥有者将之据为己有。人类死绝后，动物们成了争夺的主角。最终，死魂灵长者从一只巨型岩角兽的胃中取出同胞，封入了自己的骨骸中。",
+      "extraInfo": []
+    },
+    {
+      "id": 58,
+      "name": "没吃完的糖果",
+      "image": "rogue_4_relic_res_13.png",
+      "series": "生存助力",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "可携带干员+1，负荷临界点+2",
+      "description": "“每吃下一颗糖，我就觉得自己身体的一部分不属于自己了。可我还想吃，还想吃......直到那个黑色的阴影出现，一把扯走了我身体里的怪物。但我精神里空缺的那部分，再也没能填上。”",
+      "extraInfo": []
+    },
+    {
+      "id": 59,
+      "name": "突击协议-利刃",
+      "image": "rogue_4_relic_legacy_1.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名先锋和近卫干员，所有先锋和近卫干员的攻击力+8%",
+      "description": "用最锋利的矛攻击最坚硬的盾，最后的结果肯定是盾碎了，相信我。",
+      "extraInfo": []
+    },
+    {
+      "id": 60,
+      "name": "突击协议-散兵",
+      "image": "rogue_4_relic_legacy_2.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名先锋和近卫干员，所有先锋和近卫干员的防御力+10%",
+      "description": "精巧的格挡技术才是保护自己身体的真髓。",
+      "extraInfo": []
+    },
+    {
+      "id": 61,
+      "name": "堡垒协议-方阵",
+      "image": "rogue_4_relic_legacy_3.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名重装和辅助干员，所有重装和辅助干员的攻击力+8%",
+      "description": "如同巨舰碾过碎石。",
+      "extraInfo": []
+    },
+    {
+      "id": 62,
+      "name": "堡垒协议-固守",
+      "image": "rogue_4_relic_legacy_4.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名重装和辅助干员，所有重装和辅助干员的防御力+10%",
+      "description": "用最锋利的矛攻击最坚硬的盾，最后的结果肯定是矛断了，相信我。",
+      "extraInfo": []
+    },
+    {
+      "id": 63,
+      "name": "远程协议-遥击",
+      "image": "rogue_4_relic_legacy_5.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名医疗和狙击干员，所有医疗和狙击干员的攻击力+8%",
+      "description": "能保持距离解决的问题，为什么要凑脸上去？",
+      "extraInfo": []
+    },
+    {
+      "id": 64,
+      "name": "远程协议-克敌",
+      "image": "rogue_4_relic_legacy_6.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名医疗和狙击干员，所有医疗和狙击干员的攻击速度+6",
+      "description": "距离太远分不清敌我？那就先射一轮，没躲开的就是敌人。",
+      "extraInfo": []
+    },
+    {
+      "id": 65,
+      "name": "破坏协议-消除",
+      "image": "rogue_4_relic_legacy_7.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名术师和特种干员，所有术师和特种干员的攻击力+8%",
+      "description": "外部的毁灭与内部的瓦解。",
+      "extraInfo": []
+    },
+    {
+      "id": 66,
+      "name": "破坏协议-压制",
+      "image": "rogue_4_relic_legacy_8.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗编队中每有一名术师和特种干员，所有术师和特种干员的攻击速度+6",
+      "description": "不要在乎打得准不准，只要打得多，就是打得准！",
+      "extraInfo": []
+    },
+    {
+      "id": 67,
+      "name": "开裂的束缚带",
+      "image": "rogue_4_relic_legacy_59.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位的攻击力-7%",
+      "description": "这根坚固的带子似乎绑过什么恐怖的东西......救命......",
+      "extraInfo": []
+    },
+    {
+      "id": 68,
+      "name": "奇渊面具",
+      "image": "rogue_4_relic_legacy_60.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位的攻击力-12%",
+      "description": "不属于所知的任何一个文化的古怪面具，会让人丧失战意......并不自觉地陷入长久的沉思。",
+      "extraInfo": []
+    },
+    {
+      "id": 69,
+      "name": "教母的信物",
+      "image": "rogue_4_relic_legacy_61.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位的攻击力-17%",
+      "description": "骨质的桂冠，西西里夫人的信物。秩序的象征将铲平起伏的欲望，斗争不被允许。无论真假，跪下。",
+      "extraInfo": []
+    },
+    {
+      "id": 70,
+      "name": "残破合影",
+      "image": "rogue_4_relic_legacy_62.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位的防御力-12%",
+      "description": "里面有你认识的人吗？",
+      "extraInfo": []
+    },
+    {
+      "id": 71,
+      "name": "恐鱼干",
+      "image": "rogue_4_relic_legacy_63.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位的防御力-21%",
+      "description": "当生存的欲望压过恐惧后，饥不择食的伊比利亚人会吞下这些“食物”，然后在某个平常的日子里成为恐鱼。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【集群分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "name": "迷迭香之拥",
+      "image": "rogue_4_relic_legacy_64.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位的防御力-30%",
+      "description": "“谁来审判？”",
+      "extraInfo": []
+    },
+    {
+      "id": 73,
+      "name": "镶金骨骰",
+      "image": "rogue_4_relic_legacy_65.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位的生命-15%",
+      "description": "镶金的骨骰只有一面刻着代表生存的印记，至于其他十九面......",
+      "extraInfo": []
+    },
+    {
+      "id": 74,
+      "name": "“黑夜呢喃”",
+      "image": "rogue_4_relic_legacy_66.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位的生命-10%",
+      "description": "一张黑色唱片。不。准。碰。它。",
+      "extraInfo": []
+    },
+    {
+      "id": 75,
+      "name": "《大静谧》",
+      "image": "rogue_4_relic_legacy_67.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位的生命-20%",
+      "description": "描绘伊比利亚史上最大灾难的画作，笔触毫无意义，色彩毫无意义，意象毫无意义。“阿戈尔知道，阿戈尔知道，阿戈尔知道。”",
+      "extraInfo": []
+    },
+    {
+      "id": 76,
+      "name": "异铁小圆盾",
+      "image": "rogue_4_relic_legacy_68.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位的防御力+15%",
+      "description": "在异铁被广泛应用于现代工业领域前，这种材料时常被用来制造军用制式武器。",
+      "extraInfo": []
+    },
+    {
+      "id": 77,
+      "name": "军团护心镜",
+      "image": "rogue_4_relic_legacy_69.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位的防御力+25%",
+      "description": "这种甲片曾经能够防护住针对心脏的致命伤害，但随着高卢没落，护心镜这种过时的护甲样式也退出了历史舞台。",
+      "extraInfo": []
+    },
+    {
+      "id": 78,
+      "name": "古旧的蒸汽甲胄",
+      "image": "rogue_4_relic_legacy_70.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有我方单位的防御力+35%",
+      "description": "哪怕是这种旧型号的蒸汽甲胄，也仿佛承载着维多利亚君主们照耀着半片大地的荣耀辉光。",
+      "extraInfo": []
+    },
+    {
+      "id": 79,
+      "name": "皇帝的恩宠",
+      "image": "rogue_4_relic_legacy_71.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方近战单位的攻击力+15%",
+      "description": "十分锋利的拆信刀。前任乌萨斯皇帝喜爱的日用品。大多数时候并不用来拆信。",
+      "extraInfo": []
+    },
+    {
+      "id": 80,
+      "name": "贵族刺剑",
+      "image": "rogue_4_relic_legacy_72.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方近战单位的攻击力+25%",
+      "description": "装饰性强的贵族刺剑。高卢贵族首先使用，作为军事武器还是太脆了。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【突击战术分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "name": "老近卫军之锋",
+      "image": "rogue_4_relic_legacy_73.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有我方近战单位的攻击力+35%",
+      "description": "高卢将见证老近卫军的牺牲，随后才迎来自己的覆灭。",
+      "extraInfo": []
+    },
+    {
+      "id": 82,
+      "name": "显圣吊坠",
+      "image": "rogue_4_relic_legacy_74.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方远程单位的攻击力+15%",
+      "description": "信仰悬在你的心口上方十公分处，语言流入你的血液，子弹滑进你的弹仓。",
+      "extraInfo": []
+    },
+    {
+      "id": 83,
+      "name": "银餐叉",
+      "image": "rogue_4_relic_legacy_75.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方远程单位的攻击力+25%",
+      "description": "一把用来处理失败的演员，一把用来收拾蹩脚的剧作者，还有一把留给有需要的人。厨师长不能容忍任何人在餐桌上出错。",
+      "extraInfo": []
+    },
+    {
+      "id": 84,
+      "name": "损坏的左轮弹巢",
+      "image": "rogue_4_relic_legacy_76.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有我方远程单位的攻击力+35%",
+      "description": "她行过刀山火海也不曾有一刻向奸邪低头，她枪口火舌焦灼好似怒阳，她头顶光芒炽烈几胜白昼。此处安葬着Outcast，我们的朋友。",
+      "extraInfo": []
+    },
+    {
+      "id": 85,
+      "name": "难闻的止血剂",
+      "image": "rogue_4_relic_legacy_77.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位的生命+20%",
+      "description": "“这种源石虫的体液经过发酵处理之后可以用于止血”——《罗德岛野外生存指南》",
+      "extraInfo": []
+    },
+    {
+      "id": 86,
+      "name": "急救药箱",
+      "image": "rogue_4_relic_legacy_78.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位的生命+35%",
+      "description": "“…抗生素与乙醇添加物，请在专业人士指导下使用…”——雷姆必拓安全生产指南",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【堡垒战术分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "name": "未知仪器",
+      "image": "rogue_4_relic_legacy_79.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有我方单位的生命+50%",
+      "description": "不要问。就当为了你自己好。",
+      "extraInfo": []
+    },
+    {
+      "id": 88,
+      "name": "锈蚀刀片",
+      "image": "rogue_4_relic_legacy_80.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位受到的物理伤害+15%",
+      "description": "如果它割破了皮肤，你知道会发生什么。",
+      "extraInfo": []
+    },
+    {
+      "id": 89,
+      "name": "赶车夫的长鞭",
+      "image": "rogue_4_relic_legacy_81.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位受到的物理伤害+25%",
+      "description": "作为剧团的赶车人，他没有名字，没有过往。唯有挥鞭驱赶驮兽，他的生命才有意义。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【远程战术分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "name": "“复仇者”",
+      "image": "rogue_4_relic_legacy_82.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位受到的物理伤害+35%",
+      "description": "在阿斯卡纶第一次为军事委员会完成任务后，由特雷西斯亲手赠送，特蕾西娅为她安装的第一把武器。",
+      "extraInfo": []
+    },
+    {
+      "id": 91,
+      "name": "制式防暴用具",
+      "image": "rogue_4_relic_legacy_83.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位受到的法术伤害+20%",
+      "description": "乌萨斯军警的制式装备，自带施放间歇性致盲源石技艺的功能。可惜关键时刻想得起来这一功能的军警寥寥无几。",
+      "extraInfo": []
+    },
+    {
+      "id": 92,
+      "name": "皇帝的收藏",
+      "image": "rogue_4_relic_legacy_84.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位受到的法术伤害+30%",
+      "description": "萨米人对他们的荒野尊崇无比，而现在这片荒野的碎片正静静躺在乌萨斯皇帝的私库中。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【破坏战术分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "name": "“璀璨悲泣”",
+      "image": "rogue_4_relic_legacy_85.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位受到的法术伤害+40%",
+      "description": "他的血液仍在流淌，他从不曾真的自这里离开。",
+      "extraInfo": []
+    },
+    {
+      "id": 94,
+      "name": "活玫瑰",
+      "image": "rogue_4_relic_legacy_86.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位受到的治疗和生命回复效果+20%",
+      "description": "是你滋养她，还是她守护你？",
+      "extraInfo": []
+    },
+    {
+      "id": 95,
+      "name": "苍白花冠",
+      "image": "rogue_4_relic_legacy_87.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位受到的治疗和生命回复效果+30%",
+      "description": "血魔仪式使用的花冠头纱，曾经鲜红的生命被吮吸殆尽，现在只余苍白。",
+      "extraInfo": []
+    },
+    {
+      "id": 96,
+      "name": "演出用香水",
+      "image": "rogue_4_relic_legacy_88.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位每秒回复1%的最大生命值",
+      "description": "剧团演员们上台前会喷一些在身上，这种稳定且芬芳的香气能为演员持续舒缓压力，至少，表面上，看上去是这样的。",
+      "extraInfo": []
+    },
+    {
+      "id": 97,
+      "name": "设计师量尺",
+      "image": "rogue_4_relic_legacy_89.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位获得15%物理闪避",
+      "description": "在数据、经验以及精确测量下，身着铠甲的人多了几分幸运。",
+      "extraInfo": []
+    },
+    {
+      "id": 98,
+      "name": "“法术杀手”",
+      "image": "rogue_4_relic_legacy_90.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位获得15%法术闪避",
+      "description": "由于莱塔尼亚人的源石技艺与音乐息息相关，有人竟想出了用噪音对抗法术的蠢主意。",
+      "extraInfo": []
+    },
+    {
+      "id": 99,
+      "name": "舞者手链",
+      "image": "rogue_4_relic_legacy_91.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位获得10%物理与法术闪避",
+      "description": "训练有素的舞者在舞台上翩翩起舞躲过陷阱，观众们鼓掌喝彩，全然不知有人刚刚与死亡擦肩而过。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "通过第四层【或然歧域】"
+        }
+      ]
+    },
+    {
+      "id": 100,
+      "name": "人偶之家",
+      "image": "rogue_4_relic_legacy_92.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "初始部署费用+10",
+      "description": "每个孩子都该有一套。",
+      "extraInfo": []
+    },
+    {
+      "id": 101,
+      "name": "微缩舞台模型",
+      "image": "rogue_4_relic_legacy_93.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "初始部署费用+20",
+      "description": "红色的颜料未干。小心，别染红了手。",
+      "extraInfo": []
+    },
+    {
+      "id": 102,
+      "name": "缠梦古堡模型",
+      "image": "rogue_4_relic_legacy_94.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "初始部署费用+30",
+      "description": "你见过这里，你曾在古堡中游荡，但你现在将其捧在掌心。这一切到底都是真的，还是只是一场梦？",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "通过第二层【锻铁根须】"
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "name": "漆黑的舞鞋",
+      "image": "rogue_4_relic_legacy_95.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline"
+      ],
+      "price": "12",
+      "effect": "可以在高台部署近战位干员",
+      "description": "哥伦比亚的舞者踩踏大地，铿锵之声响亮悦耳。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "通过第三层【灰铸迷城】时已招募大于等于6名远程位干员或大于等于6名近战位干员，累计3次"
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "name": "洁白的舞鞋",
+      "image": "rogue_4_relic_legacy_96.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "可以在低地部署远程位干员",
+      "description": "乌萨斯的舞者轻盈灵动，于天地间尽情舒展身姿。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "通过第三层【灰铸迷城】时已招募大于等于6名远程位干员或大于等于6名近战位干员，累计3次"
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "name": "古高卢银币",
+      "image": "rogue_4_relic_legacy_128.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有干员的初始技力+6",
+      "description": "已灭亡国家“高卢”的流通货币，保存良好，收藏价值很高。",
+      "extraInfo": []
+    },
+    {
+      "id": 106,
+      "name": "高卢银行支票",
+      "image": "rogue_4_relic_legacy_129.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有干员的初始技力+12",
+      "description": "镶金嵌银、奢华无比的支票本，现在已经无从兑现。",
+      "extraInfo": []
+    },
+    {
+      "id": 107,
+      "name": "《第二经济改革法》",
+      "image": "rogue_4_relic_legacy_130.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有干员的初始技力+18",
+      "description": "以此法案为起点，高卢正式迈向了霸权帝国的道路。",
+      "extraInfo": []
+    },
+    {
+      "id": 108,
+      "name": "香草沙士汽水",
+      "image": "rogue_4_relic_legacy_131.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有自然回复技能的技力恢复+0.2/秒",
+      "description": "玻利瓦尔本地的廉价饮料，拥有上百年历史，混合多种香料，特点是不好喝。",
+      "extraInfo": []
+    },
+    {
+      "id": 109,
+      "name": "羽兽肝酱",
+      "image": "rogue_4_relic_legacy_132.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有自然回复技能的技力恢复+0.35/秒",
+      "description": "小瓶高档羽兽肝酱，颜色鲜艳，贵族特供。",
+      "extraInfo": []
+    },
+    {
+      "id": 110,
+      "name": "迷梦香精",
+      "image": "rogue_4_relic_legacy_133.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "所有自然回复技能的技力恢复+0.5/秒",
+      "description": "据说女妖们制作的香氛只会送给心上之人，只需一滴，就能令人如痴如醉，而艺术家们的灵感与创意也随之而来。",
+      "extraInfo": []
+    },
+    {
+      "id": 111,
+      "name": "摩根队长佳酿",
+      "image": "rogue_4_relic_legacy_134.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有攻击和受击回复的技能每3秒回复1点技力",
+      "description": "一种产自伊比利亚地区的酒，在维多利亚中部城市大受欢迎，现已停产。",
+      "extraInfo": []
+    },
+    {
+      "id": 112,
+      "name": "生命之水",
+      "image": "rogue_4_relic_legacy_135.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有攻击和受击回复的技能每2.5秒回复1点技力",
+      "description": "度数奇高的乌萨斯烈酒，上头，据说一个健康的乌萨斯人能干掉好几瓶。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【高规格分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "name": "皇家利口酒",
+      "image": "rogue_4_relic_legacy_136.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "所有攻击和受击回复的技能每1.5秒回复1点技力",
+      "description": "已灭亡国家“高卢”的好酒，现在成为了收藏家手中的珍惜奇货，价格不菲。产地现处莱塔尼亚境内，工艺则已经失传。",
+      "extraInfo": []
+    },
+    {
+      "id": 114,
+      "name": "悬丝傀儡",
+      "image": "rogue_4_relic_legacy_137.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "敌人被晕眩、冻结、束缚时，每秒受到700点法术伤害",
+      "description": "越是用力想要挣脱，丝线就缠得越紧。你真的认为自己仍在思考？",
+      "extraInfo": []
+    },
+    {
+      "id": 115,
+      "name": "“童趣玩偶”",
+      "image": "rogue_4_relic_legacy_138.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "敌人被晕眩、冻结、束缚时，每秒受到1000点法术伤害",
+      "description": "伊比利亚的孩童们将海岸边的奇物做成了简陋玩偶，听说只要抱着它，梦乡就会变得充实起来。",
+      "extraInfo": []
+    },
+    {
+      "id": 116,
+      "name": "凯旋号角",
+      "image": "rogue_4_relic_legacy_139.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "敌人受到的一次性晕眩、寒冷、冻结等异常效果影响时间提高100%",
+      "description": "吹响我们的号角，唤起我们的呼号，让敌人在震天咆哮中落荒而逃！",
+      "extraInfo": []
+    },
+    {
+      "id": 117,
+      "name": "高闪相机",
+      "image": "rogue_4_relic_legacy_140.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "敌人受到的一次性晕眩、寒冷、冻结等异常效果影响时间提高110%",
+      "description": "用这部相机拍摄的照片冲洗出来后基本上只有一片花白，隐约能够看到受害者扭曲的表情。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "携带不小于3名辅助干员胜利一场战斗"
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "name": "精神治疗录像带",
+      "image": "rogue_4_relic_legacy_141.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "敌人受到的一次性晕眩、寒冷、冻结等异常效果影响时间提高150%",
+      "description": "这是他曾经多次阻止你听的，他说这很危险，他说你不该逗留——现在你明白了吗？你在听他唱歌。",
+      "extraInfo": []
+    },
+    {
+      "id": 119,
+      "name": "老蒲扇",
+      "image": "rogue_4_relic_legacy_142.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "战斗编队中每有一个职业不同的干员，所有干员的攻击力+10%",
+      "description": "遇上连天阴雨，大炎的老天师便会向亲友抱怨自己膝盖受不得湿寒，然后，随手扇动他的蒲扇......云开雾散，雨水退避，天气就此放晴。这一手，下回还得教教他那在大理寺当差的小徒弟。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "拥有不小于20名干员时完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "name": "Scout的狙击镜",
+      "image": "rogue_4_relic_legacy_144.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位受到我方单位伤害时，距离伤害来源越远受到的伤害越高（最高100%）",
+      "description": "锁定目标、维持精度、扣下扳机、摧毁敌人抵抗的意志，这一切都是为了那个更远大的未来。Scout已经没有机会看到了，或许你可以帮忙见证。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "携带不小于3名狙击干员胜利一场战斗"
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "name": "黑色郁金香",
+      "image": "rogue_4_relic_legacy_145.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有我方干员技能未开启时60秒内攻击力逐渐提升至最高+60%，每次技能结束时失去该加成",
+      "description": "沉默压垮了伊比利亚人，所以她要发声，如果言语不够锐利，那就以剑代言。",
+      "extraInfo": []
+    },
+    {
+      "id": 122,
+      "name": "绿叶菜罐头",
+      "image": "rogue_4_relic_legacy_147.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有干员技能触发后1秒内攻击力+60%",
+      "description": "很多卡特斯相信吃下这盒罐头，他们就会变得力大无穷。出色的广告效果，业界经典成功案例。",
+      "extraInfo": []
+    },
+    {
+      "id": 123,
+      "name": "叙拉古人的愤怒",
+      "image": "rogue_4_relic_legacy_148.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有干员技能触发后1秒内攻击力+100%",
+      "description": "曾经开设在高卢首都的一家“正宗叙拉古餐厅”的招牌面食，用浓郁的巧克力酱与源石虫肝制成的酱汁以其独特风味备受高卢贵族好评。但是据说差一点引起叙拉古与高卢的外交冲突。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在损失不超过3点目标生命的情况下胜利战斗【失败的试胆】"
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "name": "古堡的子嗣",
+      "image": "rogue_4_relic_legacy_151.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "所有干员在场上停留100秒后防御力+300，法术抗性+30",
+      "description": "只要有足够时间，这个盒子便能成为另一座崭新的舞台。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "累计在战斗中部署干员不小于80次的情况下完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "name": "《光耀卡西米尔》",
+      "image": "rogue_4_relic_legacy_155.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "干员触发闪避后6秒内攻击力+70%",
+      "description": "卡西米尔畅销书，以小说笔调讲述了自有骑士竞技以来那些闪耀竞技场的骑士事迹。惨遭放逐但重夺桂冠的临光占据了相当大的篇幅。",
+      "extraInfo": []
+    },
+    {
+      "id": 126,
+      "name": "《归来》",
+      "image": "rogue_4_relic_legacy_156.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "干员触发闪避后6秒内攻击力+130%",
+      "description": "卡西米尔畅销书，据说是粉丝的集体创作，“临光”已然成为糅杂了诸多幻想的形象复合体。“放逐，并非逃避。她归来，独自抵挡时代的洪流。”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计胜利40场战斗"
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "name": "湖中神盾",
+      "image": "rogue_4_relic_legacy_158.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "护盾值+1；战斗开始时如果拥有护盾值，所有我方单位的最大生命+60%",
+      "description": "三十年前，孩童的玩具木盾落入湖中。三十年后，他凿开冰封湖泊，取出盾牌，踏上英雄的旅途。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计进入40次非战斗节点"
+        }
+      ]
+    },
+    {
+      "id": 128,
+      "name": "空羽兽",
+      "image": "rogue_4_relic_legacy_160.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "【召唤物】生命值+30%，攻击力+30%，且在场时使它所属的干员攻击力+60%",
+      "description": "肉体早已消逝，灵魂于壳中永驻。枝叶间的不融生灵，带着冰凌于林中展翅。",
+      "extraInfo": []
+    },
+    {
+      "id": 129,
+      "name": "活木甲",
+      "image": "rogue_4_relic_legacy_167.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方近战单位部署时获得相当于最大生命50%的屏障",
+      "description": "萨满们知晓树木对于生存的执着，所以当战士也拥有这种意志时，他们便会邀请树木成为战士的护甲。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "携带不小于3名重装干员胜利一场战斗"
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "name": "岩角号",
+      "image": "rogue_4_relic_legacy_168.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有干员周围4格每有一名干员，攻击力+20%",
+      "description": "想要在萨米召集人手，吹号绝对是最为有效的措施。",
+      "extraInfo": []
+    },
+    {
+      "id": 131,
+      "name": "荣耀绶带",
+      "image": "rogue_4_relic_legacy_170.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位仅阻挡1名敌人时，攻击力+100%",
+      "description": "曾有无数位演员出演这个角色，但永远救不了这个角色心目中的挚友。",
+      "extraInfo": []
+    },
+    {
+      "id": 132,
+      "name": "几丁质刺刃",
+      "image": "rogue_4_relic_legacy_171.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [],
+      "price": null,
+      "effect": "战斗开始时，使随机一名干员在本局内攻击力+100%，生命+100%",
+      "description": "一种更有效的外骨骼生长方案。能够撕裂猎物，抵御打击，也可以化作同胞的美食。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 绝境？抉择？ 事件中选择“跟随巫妖的智慧”选项"
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "name": "药枚",
+      "image": "rogue_4_relic_legacy_172.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位在部署时获得2层护盾",
+      "description": "古时炎国军队作战时，军士衔枚行军。桑葚从中得到灵感，制作了一款可食用的硬膏，非常锻炼咬肌，且醒神效果上佳。",
+      "extraInfo": []
+    },
+    {
+      "id": 134,
+      "name": "疗养体验卡",
+      "image": "rogue_4_relic_legacy_179.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有干员部署后10秒内攻击速度+40",
+      "description": "疗养庭院特别服务！每位干员在执行外勤任务前，均可前往疗养庭院接受神经调理一次。名额不可转让。",
+      "extraInfo": []
+    },
+    {
+      "id": 135,
+      "name": "疗养特供卡",
+      "image": "rogue_4_relic_legacy_180.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "所有干员部署后10秒内攻击速度+70",
+      "description": "疗养庭院联合医疗部特供！每位干员在执行外勤任务前，均可前往疗养庭院接受全面的身心状态评估，以及神经调理一次，结束后还可品尝波登可自制的花饼。",
+      "extraInfo": []
+    },
+    {
+      "id": 136,
+      "name": "古乔治营养原浆",
+      "image": "rogue_4_relic_legacy_181.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "干员生命值越高，攻击力越高，100%生命值时达到最大可提升攻击力（+30%）",
+      "description": "一种味道很差的强化营养剂，原本是哥伦比亚开发商定期向拓荒工人提供的“食物”补给，但在铺天盖地的营销后，它摇身一变成为了贵族钟爱的“美型良品”。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "选择【因地制宜分队】完成游戏结局"
+        }
+      ]
+    },
+    {
+      "id": 137,
+      "name": "紧急活性剂",
+      "image": "rogue_4_relic_legacy_182.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "干员生命值越低，攻击速度越快，30%生命值时达到最大可提升攻击速度（+60）",
+      "description": "雷姆必拓当地矿场常用的一种针剂，强活性成分可以刺激工人的感官，保证其在极端环境下的工作效率。生命和工程都有期限，对他们而言，这仅仅是个选择题。",
+      "extraInfo": []
+    },
+    {
+      "id": 138,
+      "name": "散轶诗简",
+      "image": "rogue_4_relic_legacy_186.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【召唤物】的生命值+30%、攻击力+30%，并且不再消耗部署位",
+      "description": "“酣然失千山，万物得其灵。”",
+      "extraInfo": []
+    },
+    {
+      "id": 139,
+      "name": "眼熟的雕像",
+      "image": "rogue_4_relic_legacy_177.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位的攻击速度-15",
+      "description": "容貌相近，气质相异，你或许见过这个人？",
+      "extraInfo": []
+    },
+    {
+      "id": 140,
+      "name": "“苦痛的快乐”",
+      "image": "rogue_4_relic_legacy_178.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位的生命-15%，移动速度-15%",
+      "description": "矿石病在剧团内蔓延，有人倒下，有人哭泣，有人乐不可支，有人一心书写。年轻人在这时收到他的成年礼物，他即将唱响身为演员的最后一支歌。",
+      "extraInfo": []
+    },
+    {
+      "id": 141,
+      "name": "文学的开端",
+      "image": "rogue_4_relic_fight_3.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "对【萨卡兹】敌人造成的物理与法术伤害提升50%",
+      "description": "“阿卡姆·那坤·萨卡姆，那就是‘阿喃那’，是唯一的诅咒，是你未曾听见，便将要杀死你的语言。现在落泪吧！”",
+      "extraInfo": []
+    },
+    {
+      "id": 142,
+      "name": "重力蔑视机关",
+      "image": "rogue_4_relic_fight_13.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有敌人重量-2",
+      "description": "娜斯提·鲁诺瑞伊的杰作将萨卡兹托离了残害他们千万年的大地，此后，萨卡兹虽缥缈于云端，却将自己的根系，牢牢扎在了天空之上。",
+      "extraInfo": []
+    },
+    {
+      "id": 143,
+      "name": "光环",
+      "image": "rogue_4_relic_fight_17.png",
+      "series": "斗争之物",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "【萨卡兹】敌人的移动速度-30%",
+      "description": "“当我进入那扇门时，我的兄长已经现出圆环长出光翼。他转过身来，向我问了好。传来的语言像是一把钥匙，解开了我心头的苦难，于是，当我高声回话时，圆环完成了链接，我也由此启明。”",
+      "extraInfo": []
+    },
+    {
+      "id": 144,
+      "name": "钝爪-突破",
+      "image": "rogue_4_relic_legacy_97.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【先锋】干员的部署费用-2，生命+60%",
+      "description": "在波涛中插下顽石，分割巨浪，破开迷雾。",
+      "extraInfo": []
+    },
+    {
+      "id": 145,
+      "name": "钝爪-爆发",
+      "image": "rogue_4_relic_legacy_98.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【先锋】干员的初始技力+15",
+      "description": "他已经把所有后续部队的事情都干完了，还要别人做什么？",
+      "extraInfo": []
+    },
+    {
+      "id": 146,
+      "name": "钝爪-熟稔",
+      "image": "rogue_4_relic_legacy_99.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【先锋】干员的技力消耗-35%",
+      "description": "作为大部分时候最先进入战场的干员，你无法想象他们经历了多少。",
+      "extraInfo": []
+    },
+    {
+      "id": 147,
+      "name": "钝爪-百战",
+      "image": "rogue_4_relic_legacy_100.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【先锋】干员的攻击力+50%，防御力+50%",
+      "description": "“当黑漆漆的敌人向我涌来时，我脑海里只想到四个字——它们完了。”",
+      "extraInfo": []
+    },
+    {
+      "id": 148,
+      "name": "折戟-突破",
+      "image": "rogue_4_relic_legacy_101.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【近卫】干员的部署费用-3，生命+40%",
+      "description": "战士走入战场，战士拔出战刃，战士迎接战斗。",
+      "extraInfo": []
+    },
+    {
+      "id": 149,
+      "name": "折戟-锋刃",
+      "image": "rogue_4_relic_legacy_102.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【近卫】干员的攻击力+25%",
+      "description": "“这是你这个月砍坏的第七把刀了。”“但是我这个月砍了八个敌人。”",
+      "extraInfo": []
+    },
+    {
+      "id": 150,
+      "name": "折戟-浴血",
+      "image": "rogue_4_relic_legacy_103.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【近卫】干员在攻击后获得2点技力",
+      "description": "愈战愈勇的战士十分少见，我们常需要安排一些心理辅导来缓和战后的情绪。",
+      "extraInfo": []
+    },
+    {
+      "id": 151,
+      "name": "折戟-破釜沉舟",
+      "image": "rogue_4_relic_legacy_104.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【近卫】干员的防御力-40%，但攻击力+40%，攻击速度+30",
+      "description": "不太建议向煌学习那些技巧。",
+      "extraInfo": []
+    },
+    {
+      "id": 152,
+      "name": "铁卫-突破",
+      "image": "rogue_4_relic_legacy_105.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【重装】干员的部署费用-3，生命+40%",
+      "description": "持盾者连成山脉，连成土地，他们对抗的不是血肉之敌，他们对抗命运，对抗不公。",
+      "extraInfo": []
+    },
+    {
+      "id": 153,
+      "name": "铁卫-侵掠",
+      "image": "rogue_4_relic_legacy_106.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【重装】干员的攻击力+60%",
+      "description": "对队友和战略目的的保护行动往往会让人忽视他们原本的侵略性。",
+      "extraInfo": []
+    },
+    {
+      "id": 154,
+      "name": "铁卫-整固",
+      "image": "rogue_4_relic_legacy_107.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【重装】干员生命值+40%，防御力+40%，法术抗性+20",
+      "description": "无论命运的打击多么沉重，扛下它。",
+      "extraInfo": []
+    },
+    {
+      "id": 155,
+      "name": "铁卫-无锋",
+      "image": "rogue_4_relic_legacy_108.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【重装】干员在受到攻击后获得2点技力",
+      "description": "他们承受的每一次攻击，都将化作怒火数倍返还。",
+      "extraInfo": []
+    },
+    {
+      "id": 156,
+      "name": "残弩-突破",
+      "image": "rogue_4_relic_legacy_109.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【狙击】干员的部署费用-2，生命+60%",
+      "description": "上膛，瞄准，开火，毁灭如期而至。",
+      "extraInfo": []
+    },
+    {
+      "id": 157,
+      "name": "残弩-百步穿杨",
+      "image": "rogue_4_relic_legacy_110.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【狙击】干员的攻击力+20%",
+      "description": "在源石技艺尚不如今天发达的时代，炎国曾以“百步穿杨”的典故来称赞他人箭术高超。",
+      "extraInfo": []
+    },
+    {
+      "id": 158,
+      "name": "残弩-交叉火力",
+      "image": "rogue_4_relic_legacy_111.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【狙击】干员的生命-40%，但攻击力+40%",
+      "description": "密集的火力网布置同时让狙击干员们暴露在危险之中，接下来是一场关于准星的博弈。",
+      "extraInfo": []
+    },
+    {
+      "id": 159,
+      "name": "残弩-神速",
+      "image": "rogue_4_relic_legacy_112.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【狙击】干员的攻击速度+70",
+      "description": "据说古维多利亚的传奇弓手可以让箭矢几乎连成一线。",
+      "extraInfo": []
+    },
+    {
+      "id": 160,
+      "name": "断杖-突破",
+      "image": "rogue_4_relic_legacy_113.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【术师】干员的部署费用-3，生命+60%",
+      "description": "让技艺在指尖起舞，呼风唤雨，搅乱现实，达成你宏伟的目的。",
+      "extraInfo": []
+    },
+    {
+      "id": 161,
+      "name": "断杖-织法者",
+      "image": "rogue_4_relic_legacy_114.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【术师】干员的攻击力+25%，攻击速度+25",
+      "description": "在莱塔尼亚仰望高塔的时候经常会看见一些奇怪的现象......甚至是天象。",
+      "extraInfo": []
+    },
+    {
+      "id": 162,
+      "name": "断杖-凝神",
+      "image": "rogue_4_relic_legacy_115.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【术师】干员的技力恢复+0.4/秒",
+      "description": "“当一个术师打算全力以赴，哪怕是天火小姐那种坏脾气术师，也会展露出截然不同的气质。”",
+      "extraInfo": []
+    },
+    {
+      "id": 163,
+      "name": "断杖-苦难巫咒",
+      "image": "rogue_4_relic_legacy_116.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【术师】干员生命-40%，但造成的法术伤害+70%",
+      "description": "萨卡兹接触源石的起源几乎无从考证，古老法术的起点早已脱离物质现实与逻辑常理。",
+      "extraInfo": []
+    },
+    {
+      "id": 164,
+      "name": "支柱-突破",
+      "image": "rogue_4_relic_legacy_117.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【辅助】干员的部署费用-2，生命+60%",
+      "description": "当“差一点完成任务”的时候，你需要的正是那个帮你补上“差一点”的人。",
+      "extraInfo": []
+    },
+    {
+      "id": 165,
+      "name": "支柱-勤奋",
+      "image": "rogue_4_relic_legacy_118.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【辅助】干员的技力消耗-40%",
+      "description": "即使是看似最微小的工作，干员们也会全力以赴。何况事实上，一点也不微小。",
+      "extraInfo": []
+    },
+    {
+      "id": 166,
+      "name": "支柱-援护",
+      "image": "rogue_4_relic_legacy_119.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【辅助】干员使攻击范围内的我方单位攻击力+20%",
+      "description": "递上饭食、指明路线、甚至是促膝谈心，胜败的关键就在这点滴之间。",
+      "extraInfo": []
+    },
+    {
+      "id": 167,
+      "name": "支柱-枯法",
+      "image": "rogue_4_relic_legacy_120.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【辅助】干员攻击范围内的敌方单位防御力-20%，法术抗性-20%",
+      "description": "弱化敌人的防御有很多手段：立场装置，法术彻甲，弱点标记，以及......让他们肚子疼。",
+      "extraInfo": []
+    },
+    {
+      "id": 168,
+      "name": "医者-突破",
+      "image": "rogue_4_relic_legacy_121.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【医疗】干员的部署费用-2，生命+60%",
+      "description": "拯救是人类必须赞许的美德，是这一切得以存续的仰仗。",
+      "extraInfo": []
+    },
+    {
+      "id": 169,
+      "name": "医者-自医",
+      "image": "rogue_4_relic_legacy_122.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【医疗】干员的技力恢复+0.3/秒",
+      "description": "谁说医者不能自医，他们只是选择给自己来一片提神药然后继续帮助别人而已。",
+      "extraInfo": []
+    },
+    {
+      "id": 170,
+      "name": "医者-妙手",
+      "image": "rogue_4_relic_legacy_123.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【医疗】干员的攻击速度+50",
+      "description": "比起从死亡手里多抢回一条命的伟业，事后昏睡个三天算什么？",
+      "extraInfo": []
+    },
+    {
+      "id": 171,
+      "name": "医者-固化序列",
+      "image": "rogue_4_relic_legacy_124.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "所有【医疗】干员攻击范围内的我方单位获得抵抗",
+      "description": "让躯体如移动城市般坚实虽是一种理想化描述，医者们已经准备好将此创想付诸实践了。",
+      "extraInfo": []
+    },
+    {
+      "id": 172,
+      "name": "锈刃-突破",
+      "image": "rogue_4_relic_legacy_125.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【特种】干员的部署费用-2，生命+60%",
+      "description": "手段有很多，结局却只有一种。",
+      "extraInfo": []
+    },
+    {
+      "id": 173,
+      "name": "锈刃-研磨",
+      "image": "rogue_4_relic_legacy_126.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "所有【特种】干员的攻击速度+30",
+      "description": "磨不完的锈迹，做不尽的工作。",
+      "extraInfo": []
+    },
+    {
+      "id": 174,
+      "name": "锈刃-可视静谧",
+      "image": "rogue_4_relic_legacy_127.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "所有【特种】干员的再部署时间-35%",
+      "description": "声音在阴影掠过的瞬间遇害，倾听它们的人将是下一位受害者。",
+      "extraInfo": []
+    },
+    {
+      "id": 175,
+      "name": "钝爪-掠食",
+      "image": "rogue_4_relic_book_1.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "场上每有一名先锋干员，每3秒获得1点部署费用（最多叠加8层）",
+      "description": "兽群饥肠辘辘，等待饱餐一顿。",
+      "extraInfo": []
+    },
+    {
+      "id": 176,
+      "name": "折戟-裂岩",
+      "image": "rogue_4_relic_book_2.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "场上每有一名近卫干员，所有我方单位的攻击力+8%（最多叠加8层）",
+      "description": "拥有力量的人总能互相成就。",
+      "extraInfo": []
+    },
+    {
+      "id": 177,
+      "name": "断杖-波纹",
+      "image": "rogue_4_relic_book_3.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "场上每有一名术师干员，所有敌人受到的法术伤害+12%（最多叠加8层）",
+      "description": "调谐到同一频率，让我们奏起旋律。",
+      "extraInfo": []
+    },
+    {
+      "id": 178,
+      "name": "锈刃-久居",
+      "image": "rogue_4_relic_book_4.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "场上每有一名特种干员，所有敌方单位的移动速度-5%（最多叠加8层）",
+      "description": "主人不想见客，客人便到不了门前。",
+      "extraInfo": []
+    },
+    {
+      "id": 179,
+      "name": "锈刃-遗世独立",
+      "image": "rogue_4_relic_book_5.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "【特种】干员周围4格没有其他友方角色时，攻击力+70%",
+      "description": "孤独。",
+      "extraInfo": []
+    },
+    {
+      "id": 180,
+      "name": "扣挠之手",
+      "image": "rogue_4_relic_legacy_165.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【凝滞师】【削弱者】【护佑者】攻击时额外造成目标当前生命值3%的法术伤害",
+      "description": "点点滴滴，挡无可挡。",
+      "extraInfo": []
+    },
+    {
+      "id": 181,
+      "name": "掠食之手",
+      "image": "rogue_4_relic_hand_1.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "【尖兵】【冲锋手】【战术家】每次开启技能时自身攻击力、防御力+10%（最多叠加10层），拥有钝爪-掠食时，技力恢复+0.5/秒",
+      "description": "跃入兽群，撕裂皮囊。",
+      "extraInfo": []
+    },
+    {
+      "id": 182,
+      "name": "裂岩之手",
+      "image": "rogue_4_relic_hand_2.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "【收割者】【武者】【斗士】攻击无视目标70%防御，拥有折戟-裂岩时，每秒恢复自身2.5%的生命值",
+      "description": "开山碎地，噬土吞石。",
+      "extraInfo": []
+    },
+    {
+      "id": 183,
+      "name": "波纹之手",
+      "image": "rogue_4_relic_hand_3.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【扩散术师】【链术师】【驭械术师】每对一个单位造成伤害就回复2点技力值，拥有断杖-波纹时，攻击速度+20",
+      "description": "一扫而过，震耳欲聋。",
+      "extraInfo": []
+    },
+    {
+      "id": 184,
+      "name": "久居之手",
+      "image": "rogue_4_relic_hand_4.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【伏击客】【行商】【怪杰】每在场上存在30秒，攻击力+25%(最多叠加5层)，拥有锈刃-久居时，最多可以叠加8层",
+      "description": "战场如家，久居常住。",
+      "extraInfo": []
+    },
+    {
+      "id": 185,
+      "name": "奥秘之手",
+      "image": "rogue_4_relic_hand_5.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【中坚术师】【本源术师】【巫役】每使用过一次技能，自身的技力自然回复速度+0.5/秒，最多叠加4层",
+      "description": "寻寻觅觅，接近真相。",
+      "extraInfo": []
+    },
+    {
+      "id": 186,
+      "name": "轰鸣之手",
+      "image": "rogue_4_relic_hand_6.png",
+      "series": "专业工具",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【炮手】【阵法术师】【投掷手】每对一个单位造成伤害就使自身攻击力+15%，最高+150%，5秒未造成伤害则使加成清空",
+      "description": "命中标的，撼动大地。",
+      "extraInfo": []
+    },
+    {
+      "id": 187,
+      "name": "古旧铸物",
+      "image": "rogue_4_relic_legacy_44.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline"
+      ],
+      "price": "16",
+      "effect": "立即进阶三个干员（不消耗希望）",
+      "description": "“天有洪炉，地生五金”......虽然可以用来成就各种事业，却没人知道具体原理。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计进阶总共35名干员"
+        }
+      ]
+    },
+    {
+      "id": 188,
+      "name": "锈蚀的铁锤",
+      "image": "rogue_4_relic_legacy_53.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "商店中购买道具所需源石锭-50%",
+      "description": "“变革是必须的，而我们应当让暴风雨来得更快一点。”",
+      "extraInfo": []
+    },
+    {
+      "id": 189,
+      "name": "罗德岛战术电台",
+      "image": "rogue_4_relic_legacy_54.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "战斗后掉落招募券时，增加一个可选项",
+      "description": "保持联络，支援马上抵达。",
+      "extraInfo": []
+    },
+    {
+      "id": 190,
+      "name": "四叶草化石",
+      "image": "rogue_4_relic_legacy_55.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "我方在得偿所愿节点和战斗后掉落战利品时，增加一个可选项",
+      "description": "麦哲伦在生命绝迹之所找到的幸运象征。这块石头无疑经历过大地的剧变，但它还是幸存下来，将残留的小小希望留给了发现它的人。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计获得收藏品100次"
+        }
+      ]
+    },
+    {
+      "id": 191,
+      "name": "立体艺术装置",
+      "image": "rogue_4_relic_legacy_57.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "回复7目标生命，每次战斗结束后额外回复1目标生命",
+      "description": "莱茵生命有时给人的印象就如同这件艺术品：神秘莫测，层层叠叠，永远探不清虚实。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "通过第一层【熔魂之始】"
+        }
+      ]
+    },
+    {
+      "id": 192,
+      "name": "金酒之杯",
+      "image": "rogue_4_relic_legacy_146.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "每有5源石锭，所有我方单位的攻击速度+7",
+      "description": "圣人、骑士、虔信之徒，无人不为之疯狂。老天啊，连杯子本身都是纯金的！",
+      "extraInfo": []
+    },
+    {
+      "id": 193,
+      "name": "诸王的冠冕",
+      "image": "rogue_4_relic_legacy_154.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-chess-king",
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "目标生命为1时，所有我方单位的攻击力+50%，集齐3件及以上国王收藏品后变为+150%",
+      "description": "无名的诸王啊，纵使王国毁灭，仍愿您护佑伊比利亚。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "【国王收藏品】指收藏品名称中包含“国王的”前缀的收藏品，包括： 新枪 、 铠甲 、 延伸 及本收藏品"
+        }
+      ]
+    },
+    {
+      "id": 194,
+      "name": "坎诺特印记",
+      "image": "rogue_4_relic_legacy_157.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每次在诡意行商购买一件道具，或在失与得交换一次，希望+1",
+      "description": "有人愿意卖坎诺特一个面子，也有人值得坎诺特卖个“面子”。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在“前瞻性投资系统”中的投资储备余额最高达到过325"
+        }
+      ]
+    },
+    {
+      "id": 195,
+      "name": "圆石祭坛",
+      "image": "rogue_4_relic_legacy_159.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-transfer-up",
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战斗后有概率使所有我方单位的攻击力和防御力永久+5%（最多叠加10层）",
+      "description": "送上祭品，获得回馈。它是如此地便利，以至于人们都没有思考过，他们到底在向什么献祭。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※战斗后有30%的概率使效果提升"
+        }
+      ]
+    },
+    {
+      "id": 196,
+      "name": "古地树实",
+      "image": "rogue_4_relic_legacy_161.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [],
+      "price": "12",
+      "effect": "立即获得三件随机的小玩意",
+      "description": "萨米的孩子将愿望许进树种里埋入皑皑白雪。待到大树结实，取下前四个果实，将最小的那个留给后代许愿，余下的树果，便是向萨米祈求答案的贡品。",
+      "extraInfo": []
+    },
+    {
+      "id": 197,
+      "name": "Friston.P",
+      "image": "rogue_4_relic_legacy_162.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每通过一场紧急作战，我方单位的攻击速度永久+5（最多叠加15层）",
+      "description": "弗里斯顿当然不会错过探寻另一个前人类文明秘密的机会。哦，备份子思维这件事可露希尔并不知情，千万不要告诉她！",
+      "extraInfo": []
+    },
+    {
+      "id": 198,
+      "name": "探索者背包",
+      "image": "rogue_4_relic_legacy_163.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有干员从异常状态恢复后，攻击力+60%并获得抵抗，持续15秒",
+      "description": "他们总是会把一切利于生存的物资塞进背包里，然后带上那一往无前的决心与意志，挑战认知的边界。",
+      "extraInfo": []
+    },
+    {
+      "id": 199,
+      "name": "米诺斯颂诗",
+      "image": "rogue_4_relic_legacy_164.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每通过一场紧急作战，我方单位的生命值永久+5%（最多叠加15层）",
+      "description": "“可有比远征无人之境更值得赞颂的壮举？如今便有一项，前往北方吧，去谱写英雄的篇章！”",
+      "extraInfo": []
+    },
+    {
+      "id": 200,
+      "name": "骑士长枪专业版",
+      "image": "rogue_4_relic_legacy_166.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "战场的宝箱会掉落更多的源石锭",
+      "description": "骑士竞技彩券，上面印着抽象的武器广告",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※ 宝箱 / 垂死羽兽 /由 停滞巧械 或 古德因纳夫先生 召唤的 迷珍巧械 掉落源石锭时，额外掉落1/5/15源石锭 ※不包括其他途径登场的 迷珍巧械"
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "name": "投币玩具",
+      "image": "rogue_4_relic_legacy_174.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline"
+      ],
+      "price": "8",
+      "effect": "每有5源石锭，所有我方单位的攻击速度+3",
+      "description": "不知道为什么会有人喜欢这种造型，但整体的设计理念确实可圈可点——只要投币，就连石像都会动起来，千真万确。",
+      "extraInfo": []
+    },
+    {
+      "id": 202,
+      "name": "骑士戒律·新编",
+      "image": "rogue_4_relic_legacy_175.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "每有5源石锭，所有我方单位的攻击速度+5",
+      "description": "庄严宣誓那是过去的事儿了，现代骑士精神需要更加灵活的展现方式。在联络装置上输入你的编号，你便是名光荣的骑士。",
+      "extraInfo": []
+    },
+    {
+      "id": 203,
+      "name": "人事部密信",
+      "image": "rogue_4_relic_legacy_187.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [],
+      "price": null,
+      "effect": "招募6星干员的希望消耗-2，招募时有概率出现全部随机直升的6星干员",
+      "description": "“■■■给你的？哦那没事了。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 绝境？抉择？ 事件中选择“跟随独眼巨人的预示”选项"
+        },
+        {
+          "key": "备注",
+          "value": "※招募时有20%的概率出现全部随机直升的6星干员"
+        }
+      ]
+    },
+    {
+      "id": 204,
+      "name": "“知识之桥”",
+      "image": "rogue_4_relic_fight_1.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-transfer-up",
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每使用一缕灵感，所有友方干员的最大生命值+5%（最多叠加10层）",
+      "description": "据说只要把它握住，它就会通过振动提示巫妖知识圣殿所在的方向。真的能这样到达知识圣殿的大门吗？它缄口不言。而未曾如此质疑的人，确实从未到达过那扇门。",
+      "extraInfo": []
+    },
+    {
+      "id": 205,
+      "name": "佣兵的饰物",
+      "image": "rogue_4_relic_fight_4.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-transfer-up",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "使随机一名干员的攻击力、防御力、最大生命值+5%，且每次完美作战结束后额外+5%（最多叠加10层）",
+      "description": "那是他为了追求尽善尽美所付出的一点微小代价。说微小，是因为他的阅读和写作都未受多少影响。",
+      "extraInfo": []
+    },
+    {
+      "id": 206,
+      "name": "城墙之子",
+      "image": "rogue_4_relic_fight_6.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "部署在蓝色目标点周围8格的干员阻挡数+2，最大生命值+50%",
+      "description": "土石之子精心培育了卡兹戴尔的古老城垣，教会了它如何使自己变得刚韧，以保护身后的人民。随着长久和平的时代到来，它被拆分成了许多小块，作为护身符赠给了前往未知之地的探险家们。",
+      "extraInfo": []
+    },
+    {
+      "id": 207,
+      "name": "国王的新枪",
+      "image": "rogue_4_relic_legacy_150.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-chess-king",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "目标生命为1时，所有我方单位的攻击速度+50",
+      "description": "绝境下的美好祈愿能带给人希望，即使那并不是真相。",
+      "extraInfo": []
+    },
+    {
+      "id": 208,
+      "name": "国王的铠甲",
+      "image": "rogue_4_relic_fight_7.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-chess-king"
+      ],
+      "price": "16",
+      "effect": "护盾值+3，将目标生命全部转化为等量护盾值且战斗结束后使目标生命-1，护盾值+1",
+      "description": "王宫的大门前、广场上，曾摆放着那么多金色的展柜，四方珍品尽供欣赏。而现在，仅仅是回想那个场面就会让人受伤。",
+      "extraInfo": []
+    },
+    {
+      "id": 209,
+      "name": "国王的延伸",
+      "image": "rogue_4_relic_fight_8.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-chess-king"
+      ],
+      "price": "8",
+      "effect": "目标生命为1时，所有干员每2秒额外回复1点技力和3%的生命值",
+      "description": "成长，认清现实，用坚韧与笃定武装自己，用包容与慈恩武装朋友。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※治疗效果无视禁疗且来自干员本身"
+        }
+      ]
+    },
+    {
+      "id": 210,
+      "name": "私人巫术终端",
+      "image": "rogue_4_relic_fight_9.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "进入战斗时，如果使用了灵感，所有干员攻击速度+35",
+      "description": "“我们沿用了‘提卡兹巫术’这个名字，以尊崇祖先在蒙昧时期的发现。但时至今日，它已是一门学科，渗入泰拉的方方面面，而我们对它的开发与探索，还远远没有到达尽头。”",
+      "extraInfo": []
+    },
+    {
+      "id": 211,
+      "name": "原始痕迹",
+      "image": "rogue_4_relic_fight_10.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "进入战斗时，如果未使用灵感，所有干员费用-6",
+      "description": "此类动物最为显著的变化是感染矿石病后产生的变异。除此以外，关于它们的记录在千百年间从未有过变化。",
+      "extraInfo": []
+    },
+    {
+      "id": 212,
+      "name": "灾难之源",
+      "image": "rogue_4_relic_fight_11.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有敌方单位受到的法术伤害+20%，受到的元素损伤+100%",
+      "description": "萨卡兹掘断了塔尔干主矿脉，源石结晶从卡兹戴尔喷涌而出。萨卡兹的败亡早已注定，于是他们要大地上的一切成为陪葬。",
+      "extraInfo": []
+    },
+    {
+      "id": 213,
+      "name": "奴隶猎捕器",
+      "image": "rogue_4_relic_fight_12.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "进入浮空、失衡与失重状态的单位受到的伤害提升50%，持续10秒",
+      "description": "获取娜斯提的设计后，萨卡兹立刻将其运用到了战争之中，他们飞上天空，以绝对优势向着先民倾泻怒火。一场永不停歇的战争就此进入了新的阶段。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※只在进入对应状态时触发1次，重复触发刷新持续时间；不会对元素伤害生效"
+        }
+      ]
+    },
+    {
+      "id": 214,
+      "name": "魔王的床榻",
+      "image": "rogue_4_relic_fight_14.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-crown",
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "目标生命值达到上限时，所有干员的防御力+20%，法术抗性+10",
+      "description": "身居此位者，安睡即为永眠。",
+      "extraInfo": []
+    },
+    {
+      "id": 215,
+      "name": "魔王的旗帜",
+      "image": "rogue_4_relic_fight_15.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-crown",
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "目标生命值达到上限时，所有干员的攻击速度+30",
+      "description": "身居此位者，抗争便会陨落。",
+      "extraInfo": []
+    },
+    {
+      "id": 216,
+      "name": "统帅肖像",
+      "image": "rogue_4_relic_fight_18.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有我方单位的攻击力、最大生命值+10%，在险路恶敌中，攻击力、最大生命值额外+20%",
+      "description": "画像中描绘了一位杰出之人，她让互相猜疑的君王握手言和，让语言不通的士兵并肩站立......如果她还活着，泰拉一统似乎也并非天方夜谭。",
+      "extraInfo": []
+    },
+    {
+      "id": 217,
+      "name": "束灵骨",
+      "image": "rogue_4_relic_fight_21.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "每携带一缕思绪，所有干员攻击力+3%",
+      "description": "死魂灵长者用自己的骨骸做成了封印同族的囚笼，之后，他背负着自己曾经的身躯，在大地上搜捕散落在各处的死魂灵同胞。",
+      "extraInfo": []
+    },
+    {
+      "id": 218,
+      "name": "生命熔炉之薪",
+      "image": "rogue_4_relic_fight_22.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "每携带一缕思绪，所有干员攻击力+5%",
+      "description": "骨骸被掷入熔炉，火光瞬间从炉中迸发，死魂灵们纠缠在一起，将不甘、愤怒、平静、羞愧，尽数化作驱动卡兹戴尔的动力。",
+      "extraInfo": []
+    },
+    {
+      "id": 219,
+      "name": "生还者合约",
+      "image": "rogue_4_relic_fight_23.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-1-box-outline",
+        "mdi-transfer-up",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "战斗开始时，使随机一名干员攻击力和防御力+20%，且每次战斗结束后额外+20%",
+      "description": "一本包含海量条目的合约书。书中记录的每一项条款都是抛弃感性与运气的经验结晶，逐一履行，便能成为幸存的最后一人。",
+      "extraInfo": []
+    },
+    {
+      "id": 220,
+      "name": "无主的回忆",
+      "image": "rogue_4_relic_res_2.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "立即获得上次探索遗留的最多5缕思绪",
+      "description": "在被长者投入大熔炉的那一刻，一些死魂灵终于想起了自己的出身和责任，用誓言重新树立了信念；另一些则发出恍然而悟的咒骂，令火焰在炉壁上的回声更有力了几分。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "只有在上一局探索中失败于Ⅳ层 或然歧域或更深时，该收藏品可能于本局进行至Ⅳ层或更深时出现。 无法从中继承：纯白花瓣、无字地契"
+        }
+      ]
+    },
+    {
+      "id": 221,
+      "name": "探灵伯爵",
+      "image": "rogue_4_relic_res_3.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "负荷临界点+2，战斗后有概率掉落1缕构想",
+      "description": "阿尔布雷希特·冯·蹊兽，蔷花圆号之塔的伯爵，愿为您效劳，承诺给您带回失落的财宝、隐藏的智慧！他只偶尔要求分得其中的一部分作为报酬，称这是为了他的妻子和儿女。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "战斗后有50%的概率掉落1缕构想"
+        }
+      ]
+    },
+    {
+      "id": 222,
+      "name": "《神魂坚韧之歌》",
+      "image": "rogue_4_relic_res_6.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "每使用一缕灵感，护盾+1",
+      "description": "歌里唱到，笞心魔天生能感应他人的恐惧，她索性把所感都诚实地讲了出来，别人却仍不肯放下那百般的戒备；后来，她练就了一身不用这个天赋克敌的好本领，却还是被冠上了“恶主”的名衔。",
+      "extraInfo": []
+    },
+    {
+      "id": 223,
+      "name": "为五秒前准备的锚",
+      "image": "rogue_4_relic_res_7.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "进入战斗时，如果使用了灵感，战斗后会额外获得1缕灵感",
+      "description": "年轻的巫妖时不时会为记不起五秒前乍现的灵感而感到烦恼，他于是制作了这个锚，好让自己以后可以把那些稍纵即逝的想法固定住。后来，他似乎没有再记起要使用这东西。",
+      "extraInfo": []
+    },
+    {
+      "id": 224,
+      "name": "随身画笔",
+      "image": "rogue_4_relic_res_12.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "构想的负荷-1",
+      "description": "画家拿上这支笔，蘸着自己画下一幅杰作，让见到画的人心甘情愿再来添上一笔。死魂灵长者走过满是画像的长廊，用它画下封印的符咒，随后将同胞封入了自己的骨骸中。",
+      "extraInfo": []
+    },
+    {
+      "id": 225,
+      "name": "贪婪天平",
+      "image": "rogue_4_relic_res_14.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "当前所有思绪的负荷大于20时，每进入一个非战斗节点，源石锭+3",
+      "description": "商人们将金钱，将珍宝，甚至将自己的性命与灵魂奉上，都无法平衡天平，拿到那轻如鸿毛的光点。死魂灵长者用自己的灵魂压碎了天平，将同胞封入了自己的骨骸中。",
+      "extraInfo": []
+    },
+    {
+      "id": 226,
+      "name": "雕词錾刀",
+      "image": "rogue_4_relic_res_15.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "地图中的<年代之刺>与<饮泣之刺>的防御力下降50%",
+      "description": "曾经是萨卡兹石匠惯用的工具。在恸哭之刺上錾刻祷词，据说可以平息死魂灵的怨怒。錾刀尚算锋利，祷词却已无人知晓。",
+      "extraInfo": []
+    },
+    {
+      "id": 227,
+      "name": "思维捕手",
+      "image": "rogue_4_relic_res_16.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每次解读后源石锭+1",
+      "description": "去伪存真是个漫长的过程，总有一些想法会逸散出去。这时，这些经过专业训练的仆从就会立刻出击，将这些想法化作实在的财富。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在“印象重建”中固化【去伪存真】节点4次"
+        }
+      ]
+    },
+    {
+      "id": 228,
+      "name": "希望时代的涂鸦",
+      "image": "rogue_4_relic_explore_2.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [],
+      "price": null,
+      "effect": "希望+3，刷新节点时不再会出现紧急作战，在不期而遇中会发挥奇妙的效果",
+      "description": "“我是个提卡兹孤儿，爸爸妈妈死于天灾，是隔壁的菲林叔叔一家收养了我，把我当作家里的一分子。我可以问心无愧地说，我是先民的后代。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 相遇 事件中选择“它邀请对方共享猎物”选项"
+        }
+      ]
+    },
+    {
+      "id": 229,
+      "name": "死仇时代的恨意",
+      "image": "rogue_4_relic_explore_3.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [],
+      "price": null,
+      "effect": "所有友方单位和敌人攻击力+20%，刷新节点时更容易出现紧急作战，在不期而遇中会发挥奇妙的效果",
+      "description": "“我的妹妹被血魔咬死，爸爸被食腐者带走，妈妈带着我逃了出来。我绝不会向萨卡兹妥协，就算要忏悔，也得等到它们彻底消失再说。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 相遇 事件中选择“它向前扑去”选项"
+        }
+      ]
+    },
+    {
+      "id": 230,
+      "name": "牧驮人的摇铃",
+      "image": "rogue_4_relic_explore_5.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "驮兽旅行家加入队伍，在得偿所愿节点掉落战利品时，增加一个可选项",
+      "description": "你用鞭子抽打，它会惊慌逃跑；你以缰绳拉扯，它会扭头抗拒。晃动摇铃，轻哼歌谣，它将随你走遍天涯。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 驮兽旅行家 事件中邀请“胡萝卜”加入队伍获得"
+        },
+        {
+          "key": "备注",
+          "value": "※获得后，各作战将自动部署一个 驮兽旅行家 （在场时每5秒回复2点部署费用）；驮兽旅行家死亡时该收藏品消失 持有该收藏品时，部分不期而遇事件激活特殊选项，得偿所愿将新增一个选项 进入第五层时驮兽旅行家自动脱离队伍（保留收藏品）并给予1构想、1集会、1熔炉"
+        }
+      ]
+    },
+    {
+      "id": 231,
+      "name": "美愿时代的留恋",
+      "image": "rogue_4_relic_explore_6.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-1-box-outline"
+      ],
+      "price": null,
+      "effect": "源石锭+10，刷新节点时更容易出现得偿所愿，在得偿所愿中会发挥奇妙的效果",
+      "description": "“听说萨卡兹能够实现任何愿望，于是我执着地探求他们的秘密，如今看来，这成了他们苦难的开端。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 相遇 事件中选择“它回应愿望”选项"
+        }
+      ]
+    },
+    {
+      "id": 232,
+      "name": "滚动先祖",
+      "image": "rogue_4_relic_explore_7.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-1-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "所有敌方单位的攻击速度+30，移动速度+30%，最大生命值+30%，可在虚实疆界中探索不同的险路恶敌",
+      "description": "哦不，先祖们来了，先祖们想要体验更刺激的……",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 表达欲 事件中选择“奋起反抗”选项"
+        },
+        {
+          "key": "备注",
+          "value": "※获得后第5层险路恶敌战斗将大幅变化 （在经过 命运所指：尾页 前关卡信息不会发生变化）"
+        }
+      ]
+    },
+    {
+      "id": 233,
+      "name": "血税之谜",
+      "image": "rogue_4_relic_encounter_1.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "所有友方单位和敌人的最大生命值减少35%，仅在诡谲断章中生效",
+      "description": "“杜卡雷终究失败了，他挺身而出，仍没能阻止自己的兄弟丹索，殷红的锁链于是拴住了大地上的一切生灵。所以如今我们每走一步都会留下一道血的印痕，这血税就是为了还我们那时凭空欠下的债。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 234,
+      "name": "结晶之谜",
+      "image": "rogue_4_relic_encounter_2.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "所有地面干员防御力+600，但部署后，冻结15秒，仅在诡谲断章中生效",
+      "description": "“人们仿照‘石翼魔’，将‘防腐师’的后代称作‘冰翼魔’。他们拥有坚冰的力量与耐心，总和炎魔共事，互相弥补天性的缺点。但后来，他们全被卡尔纳巫狄卡所骗，为阻绝黑流下陷而再未回到地面。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 235,
+      "name": "猜疑之谜",
+      "image": "rogue_4_relic_encounter_3.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "战斗后获得的源石锭翻倍，但失去目标生命值翻倍，仅在诡谲断章中生效",
+      "description": "“杜拉喀姆公开质疑‘远逐者’对遗迹表现出的谨慎，带领子裔冲进了地下。预言说，他将崩解于‘万古不愈’的创伤，他的子裔将自称‘杜林’，他们的探井将深入大地之心，但将没有活人再能见到他们。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 236,
+      "name": "惧傲之谜",
+      "image": "rogue_4_relic_encounter_4.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "初始部署费用+50，费用自然回复速度降低50%，仅在诡谲断章中生效",
+      "description": "“‘大诳言者’曾造访此思维边界之地。她以多彩故事为此处风景增色，招待众萨卡兹来此讲古取乐，留下谜题若干，破解之即洞察历史。但时人都道‘笞心恶主所述皆为诳言’，故众萨卡兹离去后俱笃信其不真。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 237,
+      "name": "预示之谜",
+      "image": "rogue_4_relic_encounter_5.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "战斗获得的指挥经验+20%，战斗时出现额外敌人，仅在诡谲断章中生效",
+      "description": "“摩迩那剜去了自己的独眼，又请巫妖将自己放逐，试图让那偶尔瞥见的景象永久作废。自那以后，新降生的独眼巨人逐渐开始和其他萨卡兹一样，生有双眼。但那预言有人记录了下来，于是仍然应验。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        },
+        {
+          "key": "备注",
+          "value": "※额外敌人效果为：除 恐卡兹 /已获得恐卡兹标记的敌人外的地面敌人出场时有10%的概率获得恐卡兹标记"
+        }
+      ]
+    },
+    {
+      "id": 238,
+      "name": "烙印之谜",
+      "image": "rogue_4_relic_encounter_6.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "所有干员初始技力+30，技力自然回复速度下降50%，仅在诡谲断章中生效",
+      "description": "“在宗长的首肯之下，北风女巫卡莱莎开始教导食腐者们从永恒狩猎的恒律中汲取力量。而对孽茨雷来说，那是他臣民的理性战胜天性的开端。他超乎所有人预料的决定，让食腐者们在成为护灵者后仍继续尊他为宗长。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 239,
+      "name": "宁静之谜",
+      "image": "rogue_4_relic_encounter_7.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "所有友方单位和敌人的攻击力减少25%，仅在诡谲断章中生效",
+      "description": "“从阿尼尤斯山的山顶到海佩伦湖的湖心，遍布着无根之人的僧院。僧院依钟而作，亦依钟而息。那钟声仿佛出自万物之源，又回荡于亘古之中，使西图者罢返，令东掠者偃兵。维、卡两国由是至今无事。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        }
+      ]
+    },
+    {
+      "id": 240,
+      "name": "丝契之谜",
+      "image": "rogue_4_relic_encounter_8.png",
+      "series": "巧用收藏",
+      "rarity": "",
+      "markers": [
+        "mdi-eye"
+      ],
+      "price": null,
+      "effect": "干员周围8格存在其他干员时持续受到伤害，干员周围8格不存在其他干员时攻击速度+50，仅在诡谲断章中生效",
+      "description": "“巫妖贝尔莎从小痴迷于古老知识中记载的‘其他种的萨卡兹’。在成为‘誊录’后次日，她便强行与实验动物签下巫术契约，开启其灵智，‘虫卡兹’真相如此。她的丝线现在还躲着，不敢见其他巫妖。”",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "进入【诡谲断章】时随机获得的限制收藏品"
+        },
+        {
+          "key": "备注",
+          "value": "※持续伤害为每秒150真实伤害，不会致命且最低保留1生命值"
+        }
+      ]
+    },
+    {
+      "id": 241,
+      "name": "支援补给站",
+      "image": "rogue_4_active_tool_1.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带1个便携式补给站",
+      "description": "紧急提供给外勤干员的便携式补给站。",
+      "extraInfo": []
+    },
+    {
+      "id": 242,
+      "name": "支援地雷组",
+      "image": "rogue_4_active_tool_2.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带3个干扰地雷",
+      "description": "紧急提供给外勤干员的干扰地雷组。",
+      "extraInfo": []
+    },
+    {
+      "id": 243,
+      "name": "支援轰隆隆",
+      "image": "rogue_4_active_tool_3.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带2个轰隆隆先生",
+      "description": "紧急提供给外勤干员的轰隆隆先生。",
+      "extraInfo": []
+    },
+    {
+      "id": 244,
+      "name": "支援起重机",
+      "image": "rogue_4_active_tool_4.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带2个雪雉的安全起重机",
+      "description": "紧急提供给外勤干员的雪雉的安全起重机。",
+      "extraInfo": []
+    },
+    {
+      "id": 245,
+      "name": "支援防暴桩",
+      "image": "rogue_4_active_tool_5.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带2个防暴桩",
+      "description": "紧急提供给外勤干员的便携防暴桩。",
+      "extraInfo": []
+    },
+    {
+      "id": 246,
+      "name": "支援雾机",
+      "image": "rogue_4_active_tool_6.png",
+      "series": "支援道具",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": "8",
+      "effect": "每次战斗中携带1个失修舞台雾机",
+      "description": "紧急提供给外勤干员的舞台雾机，有些失修了。",
+      "extraInfo": []
+    },
+    {
+      "id": 247,
+      "name": "巴别塔誓言",
+      "image": "rogue_4_relic_final_1.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "所有干员的费用+3，让探索开启不同的方向",
+      "description": "“巴别塔”由两位萨卡兹的魔王直接领导，在军事、科技、医疗等领域皆有建树。其最初，也是最终的目的，在于通过任何手段消灭战争本身。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "完成游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在<去伪存真>节点中解读思绪“纯白花瓣”与“无字地契”"
+        }
+      ]
+    },
+    {
+      "id": 248,
+      "name": "先知长角",
+      "image": "rogue_4_relic_final_2.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle",
+        "mdi-trophy-broken"
+      ],
+      "price": null,
+      "effect": "刷新节点时出现命运所指，在诡谲断章中无法生效",
+      "description": "征服神民与先民的并不是铳械，而是律法。很快，“提卡兹”这个词的意义超越了种族，而卡兹戴尔，也就此成为众生的家园。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "完成游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在【失与得】节点中选择“一个方盒”选项"
+        },
+        {
+          "key": "备注",
+          "value": "※该收藏品有效时，必定刷新出命运所指 （优先级高于除分队效果外其它所有 控制节点刷新结果 的效果）"
+        }
+      ]
+    },
+    {
+      "id": 249,
+      "name": "十戒",
+      "image": "rogue_4_relic_final_3.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "尊主的残影最大生命值下降50%",
+      "description": "比起借助魔王的力量，阿米娅更希望用自己的力量来改变大地。她拒绝了魔王的好意，带着她特有的坚韧与决心行走在泰拉诸国间，救死扶伤，呼吁和平，直到矿石病夺走她的生命。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 离去者的庭院 事件中选择“‘阿米娅’”选项"
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "name": "时与光",
+      "image": "rogue_4_relic_final_4.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "年代会更频繁地出现，思绪的负荷+1，让探索开启不同的方向",
+      "description": "唤醒律法的第一声狂嚎。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 扣响异音 事件中选择“扣动扳机”选项"
+        }
+      ]
+    },
+    {
+      "id": 251,
+      "name": "片瓣",
+      "image": "rogue_4_relic_final_5.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-1-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "战斗获得的指挥经验与源石锭-50%，在狭路相逢中会有奇妙的效果",
+      "description": "了悟。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 一】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在【失与得】节点中选择“一片莲瓣”选项，并消耗所有源石锭获得"
+        }
+      ]
+    },
+    {
+      "id": 252,
+      "name": "阿纳萨羯磨",
+      "image": "rogue_4_relic_final_6.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-1-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "领袖与精英敌人最大生命值+50%，使虚实疆界中的险路恶敌更加艰难，让探索开启不同的方向",
+      "description": "他的心性已变，他的利剑已碎，但身上的结晶无时无刻不在提醒着他，修行尚未结束。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 一】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在消耗2构想的特殊狭路相逢战斗中击败2座托生莲座的敌方组合后从战斗奖励获得"
+        },
+        {
+          "key": "备注",
+          "value": "※获得后第5层险路恶敌战斗将追加额外的特殊敌人 （在经过 命运所指：尾页 前关卡信息不会发生变化）"
+        }
+      ]
+    },
+    {
+      "id": 253,
+      "name": "预言显像",
+      "image": "rogue_4_relic_final_7.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "终曲合声会在作战中出现",
+      "description": "你一定听说过这样一段文字：“我见你，头顶黑冠，将千万生灵，熬成回忆......”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在 空无前兆 事件中选择“试着接受它”选项"
+        },
+        {
+          "key": "备注",
+          "value": "※获取之后的所有普通作战和紧急作战中出现一名继承当前生命值状态的 终曲合声 该敌人被击败时掉落 绝望 ，之后此收藏品从持有栏位中消失"
+        }
+      ]
+    },
+    {
+      "id": 254,
+      "name": "无终之钥",
+      "image": "rogue_4_relic_final_11.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "让探索开启不同的方向",
+      "description": "经由你的泉涌灵思，故事从虚无中诞生；经由你的枯竭想象，阿米娅将要终止万物。你的思想能够成为反抗她的武器吗？",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "在 孤注一掷 事件中选择“铸造钥匙”的选项"
+        }
+      ]
+    },
+    {
+      "id": 255,
+      "name": "终结的骨架",
+      "image": "rogue_4_relic_final_8.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "所有干员的部署费用+2，所有敌人受到的物理与法术伤害降低20%",
+      "description": "到处是天灾，到处是战争。当救助本身都阻止不了死亡，所有医疗行为都只是仇恨的帮凶时，阿米娅只能徒劳且机械地“挽救生命”——这是她唯一能做的事。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "持有思绪 绝望 时，在 孤注一掷 事件中选择“以开端铸造钥匙”"
+        }
+      ]
+    },
+    {
+      "id": 256,
+      "name": "终结的躯体",
+      "image": "rogue_4_relic_final_9.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-close-circle"
+      ],
+      "price": null,
+      "effect": "所有干员的部署费用+2，所有敌人受到的物理与法术伤害降低20%，所有敌人攻击力+20%",
+      "description": "阿米娅怀着悲伤看着眼前被封入“茧”中的人，他的一切在此定格，这样，他就再也不会疼痛，源石也不会夺走他的生命了。阿米娅不愿意去盲目使用这突然觉醒的力量，可现在......没有更好的选择了。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "持有思绪 拯救 时，在 孤注一掷 事件中选择“以转变铸造钥匙”"
+        }
+      ]
+    },
+    {
+      "id": 257,
+      "name": "终结的实相",
+      "image": "rogue_4_relic_final_10.png",
+      "series": "叙事珍奇",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-close-circle",
+        "mdi-trophy-broken"
+      ],
+      "price": null,
+      "effect": "所有干员的部署费用+2，所有敌人受到的物理与法术伤害降低20%，所有敌人攻击力+20%，最终战场上出现额外敌人",
+      "description": "随着一切被封入“茧”中，时间在这里只作用于阿米娅一人，她会去寻找一切病源的解药——无论是生理的，还是心理的，她都想要治愈。在那之前，将是一场绝对孤独且几无尽头的长旅。阿米娅已经出发了。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，完成一次游戏结局"
+        },
+        {
+          "key": "获取方式",
+          "value": "持有思绪 停止 时，在 孤注一掷 事件中选择“以终点铸造钥匙”"
+        },
+        {
+          "key": "备注",
+          "value": "※包含隐藏效果：在非区域最终战斗和领袖战中失败时不结束探索，且若当前不处于诡谲断章时进入一个绝望的 诡谲断章 。 成功 触发时若目标生命未满，则目标生命+1，否则不会触发效果 同类效果的触发优先级取决于相关收藏品的获取顺序"
+        }
+      ]
+    },
+    {
+      "id": 258,
+      "name": "“荣耀套餐”",
+      "image": "rogue_4_relic_legacy_169.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "我方单位被击倒时，对周围四格的敌人造成6秒晕眩",
+      "description": "主办方在骑士竞赛期间推出的特别投注设备，优选多种叠加互补投注套餐，将单场比赛投注的损失降至最低。",
+      "extraInfo": []
+    },
+    {
+      "id": 259,
+      "name": "彩虹瓮",
+      "image": "rogue_4_relic_legacy_188.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每次敌人进入保护目标点时，使随机一名再部署中的单位当前再部署时间减为0",
+      "description": "它通常被萨米人放在彩虹落下的地方并精心保存，用以对抗踪迹不定的天灾与人祸",
+      "extraInfo": []
+    },
+    {
+      "id": 260,
+      "name": "“讨魔义旗”",
+      "image": "rogue_4_relic_fight_2.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-store-clock-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有干员对【萨卡兹】敌人造成伤害时回复2点技力",
+      "description": "效忠伊比利亚的萨卡兹雇佣兵制作了它，用来屠戮效忠莱塔尼亚的萨卡兹雇佣兵。它现在的名字则是很多年后效忠维多利亚的萨卡兹雇佣兵捡到它时起的。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计击败领袖【凯尔希】2次"
+        }
+      ]
+    },
+    {
+      "id": 261,
+      "name": "“圣城之拥”",
+      "image": "rogue_4_relic_fight_5.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "受到【萨卡兹】敌人的伤害降低35%",
+      "description": "“哦，神圣的卡兹戴尔啊！愿你祝福我的子弹，如同你祝福长存的盟约一样；愿你连结我的铳口和目标，如同你连结你的萨科塔和萨卡兹一般！”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "完成“天使之城”结局"
+        }
+      ]
+    },
+    {
+      "id": 262,
+      "name": "“小方块”",
+      "image": "rogue_4_relic_fight_16.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "所有我方单位最大生命值+10%，在狭路相逢中最大生命值额外+80%",
+      "description": "巫妖们的超时空座驾，在非现实情境反而更加坚固。埃芒加德花了好久才修好它。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "完成“憧憬未来”结局"
+        }
+      ]
+    },
+    {
+      "id": 263,
+      "name": "讴歌者面纱",
+      "image": "rogue_4_relic_fight_19.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "所有敌方单位受到的法术伤害+10%，受到的元素损伤+50%",
+      "description": "前任女妖之主留给人一种亲切的印象，好似她从来都是如此......直到她拔出骨笔，轻声吟唱，将哀嚎钉入每一个入侵者的思维。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计击败领袖【菈玛莲】2次"
+        }
+      ]
+    },
+    {
+      "id": 264,
+      "name": "无惧之刃",
+      "image": "rogue_4_relic_fight_20.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "作战开始时，我方部署费用最高的干员攻击力与防御力+50%",
+      "description": "他站在城门前，为卡兹戴尔守住这处门户。高卢火炮队、莱塔尼亚术师团、维多利亚骑士轮番上阵，想要突破这只有一名萨卡兹的防线。可直到城门被轰碎，直到联军决定撤退，这位歌利亚剑士都没有后退一步。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计击败领袖【歌利亚】2次"
+        },
+        {
+          "key": "备注",
+          "value": "※在战斗开始前（费用相关收藏品之前）进行判定，多个干员同时满足条件时只会生效于待部署区域中最左侧的干员"
+        }
+      ]
+    },
+    {
+      "id": 265,
+      "name": "“拱门”与“呼救”",
+      "image": "rogue_4_relic_explore_1.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-close-circle",
+        "mdi-trophy-broken",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "仅一次，在非区域最终战斗和领袖战中失败时不结束探索，且若当前不处于诡谲断章时进入一个特殊的诡谲断章",
+      "description": "自古以来，卡兹戴尔便隐藏于北方的风雪中。独眼巨人带领着其他萨卡兹制造了这种拥有通灵力量的密文印章，危急时刻把它盖在冰雪上，就能躲藏进脚下巨兽的内心，避开“敌人”。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "参见【探索者的银凇止境】密文板： 拱门 与 呼救 ※触发时若目标生命未满，则目标生命+1；若是在符合条件的诡意行商（等具有后续节点效果处理）触发的效果，则会先处理节点后续效果，然后进入【诡谲断章】"
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "name": "“文明的存续”",
+      "image": "rogue_4_relic_legacy_149.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-diamond-stone",
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "所有敌方单位受到的真实伤害+150%",
+      "description": "小小的黑色王冠。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "完成“双王记”结局"
+        }
+      ]
+    },
+    {
+      "id": 267,
+      "name": "“小格兰法洛”",
+      "image": "rogue_4_relic_legacy_152.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每次敌人进入保护目标点时，立刻对全场所有敌人造成5秒晕眩",
+      "description": "使用逆向工程分析“伊比利亚之眼”后制作的照射装置，能够洞穿层层阴云，也可暂时驱退强敌。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在多局游戏中累计损失125目标生命"
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "name": "“碎片大厦的回忆”",
+      "image": "rogue_4_relic_legacy_153.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [
+        "mdi-lightbulb-on-outline",
+        "mdi-music-note"
+      ],
+      "price": "16",
+      "effect": "每次敌人进入保护目标点时，立刻对全场所有敌人造成5000点真实伤害",
+      "description": "“它正扎在维多利亚的心脏上，眼看着这个帝国流尽鲜血。”",
+      "extraInfo": []
+    },
+    {
+      "id": 269,
+      "name": "人事部铜印",
+      "image": "rogue_4_relic_legacy_184.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [],
+      "price": "8",
+      "effect": "随机临时招募1名5星干员，且直接就是已进阶的状态",
+      "description": "■■■收到紧急部署口令后派发给特定干员的印记，你得到它就代表着■■■已完成嘱托。",
+      "extraInfo": []
+    },
+    {
+      "id": 270,
+      "name": "博士银印",
+      "image": "rogue_4_relic_legacy_185.png",
+      "series": "泰拉之密",
+      "rarity": "",
+      "markers": [],
+      "price": "16",
+      "effect": "随机临时招募1名6星干员，且直接就是已进阶的状态",
+      "description": "这块印记是你出发前嘱咐指挥中枢在合适时间送出的，现在你选定的干员已经赶到宿营处加入外勤任务，顺带把东西原封不动交还给了你。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "在任意时刻拥有不小于13个可携带干员数"
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "name": "戈渎不语",
+      "image": "rogue_4_relic_curse_1.png",
+      "series": "遭诅古物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "所有敌方单位防御力+3000，但每次受到伤害时防御力下降100（最多下降30次）",
+      "description": "他站在卡兹戴尔的最高处，自此化为石雕。神民霸主们见到黑冠后退却，萨卡兹们见到黑冠后喜悦。这名为“魔王”的奇观存在了很久，直至有一天，萨卡兹们忘却了魔王，亲手将它从塔顶上推下。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "<直面魂灵·17>难度及以上时，于第3层【灰铸迷城】开始时获得的随机诅咒收藏品之一"
+        }
+      ]
+    },
+    {
+      "id": 272,
+      "name": "奎萨图什塔允诺",
+      "image": "rogue_4_relic_curse_2.png",
+      "series": "遭诅古物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "招募及进阶5星及以上干员的所需要的希望+1",
+      "description": "每更迭一代，他都向自己的载体与子民承诺，会为萨卡兹改变现状。在那层层累积的希望与信任中，他将王冠安放在了圆环巨构上，叩响了星空之门。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "<直面魂灵·17>难度及以上时，于第3层【灰铸迷城】开始时获得的随机诅咒收藏品之一"
+        }
+      ]
+    },
+    {
+      "id": 273,
+      "name": "霸迩萨狂言",
+      "image": "rogue_4_relic_curse_3.png",
+      "series": "遭诅古物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "精英及领袖敌人的生命值、防御力、攻击力+20%",
+      "description": "熔岩顺从地跟随着霸迩萨的军队在大地上蔓延。他们不在乎神民霸主，也不在乎其他萨卡兹。这片大地是炎魔的大地，不需要容下别人，而作为炎魔的王，霸迩萨也无法容忍王冠落在别人的脑袋上。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "<直面魂灵·17>难度及以上时，于第3层【灰铸迷城】开始时获得的随机诅咒收藏品之一"
+        }
+      ]
+    },
+    {
+      "id": 274,
+      "name": "以勒什呓语",
+      "image": "rogue_4_relic_curse_4.png",
+      "series": "遭诅古物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "所有干员的初始技力-20",
+      "description": "唉，可怜的人啊，他无法理解王冠的伟力，以至成了一个傀儡。那卑微的自我再无展现的可能，口中说出的话语也不再出于自己的意志。他成了王冠觉醒的第一个牺牲品。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "<直面魂灵·17>难度及以上时，于第3层【灰铸迷城】开始时获得的随机诅咒收藏品之一"
+        }
+      ]
+    },
+    {
+      "id": 275,
+      "name": "未叙魔王残片",
+      "image": "rogue_4_relic_curse_5.png",
+      "series": "遭诅古物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "负荷干员的攻击力-30%",
+      "description": "知识圣殿的看守人以命结穿破生命的奥秘、疯狂的萨卡兹佣兵骑乘魂灵播撒混乱、恼人的兽主用熔炉建立商业帝国、古老的菲林戴上王冠征服自己的造物主......仍有许多故事折叠在思绪中，等待着被讲述。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "<直面魂灵·17>难度及以上时，于第3层【灰铸迷城】开始时获得的随机诅咒收藏品之一"
+        }
+      ]
+    },
+    {
+      "id": 276,
+      "name": "论断：近卫",
+      "image": "rogue_4_relic_book_6.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【近卫】干员的攻击力+20%，攻速+20",
+      "description": "面对魂灵昭示的诸多谜题，近卫们挥舞武器将其剖开。",
+      "extraInfo": []
+    },
+    {
+      "id": 277,
+      "name": "论断：先锋",
+      "image": "rogue_4_relic_book_7.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【先锋】干员的攻击力+20%，最大生命值+30%",
+      "description": "面对魂灵昭示的诸多谜题，先锋们身先士卒突入其中。",
+      "extraInfo": []
+    },
+    {
+      "id": 278,
+      "name": "论断：重装",
+      "image": "rogue_4_relic_book_8.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【重装】干员的防御力+20%，最大生命值+30%",
+      "description": "面对魂灵昭示的诸多谜题，重装们做好防御稳步推进。",
+      "extraInfo": []
+    },
+    {
+      "id": 279,
+      "name": "论断：狙击",
+      "image": "rogue_4_relic_book_9.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【狙击】干员的攻击力+20%，攻速+20",
+      "description": "面对魂灵昭示的诸多谜题，狙击们调整距离倾泻火力。",
+      "extraInfo": []
+    },
+    {
+      "id": 280,
+      "name": "论断：特种",
+      "image": "rogue_4_relic_book_10.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【特种】干员的攻击力+20%，最大生命值+30%",
+      "description": "面对魂灵昭示的诸多谜题，特种们快速部署直冲要害。",
+      "extraInfo": []
+    },
+    {
+      "id": 281,
+      "name": "论断：医疗",
+      "image": "rogue_4_relic_book_11.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【医疗】干员的攻击力+50%",
+      "description": "面对魂灵昭示的诸多谜题，医疗们耐心治疗等待转机。",
+      "extraInfo": []
+    },
+    {
+      "id": 282,
+      "name": "论断：术师",
+      "image": "rogue_4_relic_book_12.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【术师】干员的攻击力+20%，攻速+20",
+      "description": "面对魂灵昭示的诸多谜题，术师们施放技艺分解构造。",
+      "extraInfo": []
+    },
+    {
+      "id": 283,
+      "name": "论断：辅助",
+      "image": "rogue_4_relic_book_13.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "每拥有一个仅在诡谲断章生效的收藏品，【辅助】干员的攻击力+50%",
+      "description": "面对魂灵昭示的诸多谜题，辅助们别出心裁提供巧思。",
+      "extraInfo": []
+    },
+    {
+      "id": 284,
+      "name": "烟花之手",
+      "image": "rogue_4_relic_hand_7.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "【速射手】【回环射手】【哨戒铁卫】每次攻击命中时，有25%概率发射一枚额外子弹，造成相当于攻击力200%的群体物理伤害",
+      "description": "砰砰啪啪，意外之喜。",
+      "extraInfo": []
+    },
+    {
+      "id": 285,
+      "name": "衣卡兹",
+      "image": "rogue_4_relic_fight_24.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "干员首次技能结束后立刻获得30点技力",
+      "description": "借由穿戴它的生物间激烈的竞争与攀比行为，衣卡兹群体正在茁壮成长。",
+      "extraInfo": []
+    },
+    {
+      "id": 286,
+      "name": "青涩眷恋",
+      "image": "rogue_4_relic_fight_25.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "每携带一缕思绪，所有干员最大生命值+3%，防御力+3%",
+      "description": "未成形的想法如婴孩般眷恋创造者，它们狂热地护卫着造物主，直至灵光乍现，蜕变成形，离家远行。",
+      "extraInfo": []
+    },
+    {
+      "id": 287,
+      "name": "咒仪溯兽",
+      "image": "rogue_4_relic_fight_26.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-transfer-up",
+        "mdi-diamond-stone"
+      ],
+      "price": "12",
+      "effect": "所有干员攻速+5，每次作战结束后消耗一个灵感，使所有干员攻速+5（可叠加10次）",
+      "description": "奇想迸发的一瞬引来了这些生于谬误的野兽，它们毫无节制地吞食，直至时间破碎，悖论丛生。届时，它们便能产下新的幼崽。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，在多局游戏中累计胜利30场战斗"
+        },
+        {
+          "key": "备注",
+          "value": "※优先消耗 稀有度更低→ 负荷更高的灵感 ※叠加满后不再消耗"
+        }
+      ]
+    },
+    {
+      "id": 288,
+      "name": "“绽放”",
+      "image": "rogue_4_relic_legacy_189.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "所有干员每次受到伤害时回复1点技力，每次受到元素损伤时回复1点技力",
+      "description": "在Touch的尝试下，自然暂时向你敞开心扉。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，在多局游戏中累计获得收藏品75次"
+        }
+      ]
+    },
+    {
+      "id": 289,
+      "name": "涌动之餐",
+      "image": "rogue_4_relic_legacy_190.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-diamond-stone"
+      ],
+      "price": "16",
+      "effect": "所有我方单位受到的治疗和生命回复效果+30%，且受到的元素损伤-30%",
+      "description": "我们生来便学会摄取。别违抗欲求，顺从它。",
+      "extraInfo": []
+    },
+    {
+      "id": 290,
+      "name": "罗德之门",
+      "image": "rogue_4_relic_explore_8.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "立即招募数名罗德岛预备干员，每场作战结束时，最后部署的干员会进入先行一步",
+      "description": "这扇经过改造的“门”将两段故事紧紧连接到了一起，“门”的另一头是罗德戴尔——萨卡兹与感染者们的避风港。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 似是而非 事件中选择“了解她们的故事”选项"
+        },
+        {
+          "key": "备注",
+          "value": "※不会作用于狭路相逢战斗 ※战斗结算时生效，判定不受干员撤退影响 ※不会因命中干员被 “门” 带走从而自动更新目标（此时无效果）"
+        }
+      ]
+    },
+    {
+      "id": 291,
+      "name": "王命凡形",
+      "image": "rogue_4_relic_fight_27.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-crown",
+        "mdi-lightbulb-on-outline"
+      ],
+      "price": "16",
+      "effect": "护盾值+3，将剩余的生命值上限全部转化为等量护盾值，之后将最大生命值变为1",
+      "description": "王各有命，形亦不同。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "※最大生命值不会被锁定为1，在获得该藏品后仍会因指挥等级提升或其他有增加最大生命值效果的藏品而增加"
+        }
+      ]
+    },
+    {
+      "id": 292,
+      "name": "魔王的祭器",
+      "image": "rogue_4_relic_fight_28.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-crown"
+      ],
+      "price": "16",
+      "effect": "目标生命值达到上限时，所有干员的最大生命值+80%，集齐3件及以上魔王收藏品后变为+200%",
+      "description": "身居此位者，兴盛仅是泡影。",
+      "extraInfo": [
+        {
+          "key": "备注",
+          "value": "【魔王收藏品】指收藏品名称中包含“魔王的”前缀的收藏品，包括： 床榻 、 旗帜 、 王命凡形 及本收藏品"
+        }
+      ]
+    },
+    {
+      "id": 293,
+      "name": "死仇葬送者",
+      "image": "rogue_4_relic_fight_29.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline"
+      ],
+      "price": null,
+      "effect": "思维负荷+5，作战中如果使用了死斗，完美作战后将再次获得死斗",
+      "description": "不愿被仇恨蒙蔽双眼的人们铸造了这把武器，它揭示了一条道路——当源自暴力的恐惧压倒一切仇恨时，或许，在那之后，人们能有机会窥见和平的曙光。",
+      "extraInfo": [
+        {
+          "key": "获取方式",
+          "value": "在 转机 事件中选择“再看一眼合照”选项"
+        }
+      ]
+    },
+    {
+      "id": 294,
+      "name": "笞心魔宝宝",
+      "image": "rogue_4_relic_explore_9.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "希望+3，在失与得交换时希望额外+8",
+      "description": "“哦，我的小可爱，不要在我心头上挠痒痒了，好吗？”",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，在多局游戏中累计获得50希望"
+        }
+      ]
+    },
+    {
+      "id": 295,
+      "name": "财眼",
+      "image": "rogue_4_relic_explore_10.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-gift-outline",
+        "mdi-music-note"
+      ],
+      "price": "8",
+      "effect": "源石锭+5，被派遣的队员可以额外带回5源石锭",
+      "description": "“独眼巨人开眼见财”的谣言在萨卡兹消失千年后成了某种民俗文化。人们纷纷在家供上镶有独眼的圆盘，以求财运亨通、事事顺心。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，在多局游戏中累计获得150源石锭"
+        }
+      ]
+    },
+    {
+      "id": 296,
+      "name": "妙用涂鸦",
+      "image": "rogue_4_relic_fight_30.png",
+      "series": "尘封遗物",
+      "rarity": "",
+      "markers": [
+        "mdi-numeric-2-box-outline",
+        "mdi-treasure-chest-outline",
+        "mdi-music-note"
+      ],
+      "price": "12",
+      "effect": "每次敌人进入保护目标点后，立刻使全场干员获得20点技力",
+      "description": "这些街头“艺术作品”经常会被巫妖们加上几笔，按他们的说法，主要是为了以更经济的形式增强城市街道防御。",
+      "extraInfo": [
+        {
+          "key": "解锁条件",
+          "value": "【内容拓展 · 二】后，在多局游戏中累计损失25目标生命"
+        }
+      ]
+    }
+  ]
+}

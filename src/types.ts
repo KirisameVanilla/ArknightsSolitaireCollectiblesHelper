@@ -10,7 +10,9 @@ export interface Collectible {
   series: string | null;
   rarity: string;
   markers: string[];
+  price?: string | null;
   effect: string;
+  description?: string;
   extraInfo: KVPair[];
 }
 
